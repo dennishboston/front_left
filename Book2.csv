@@ -1,0 +1,2347 @@
+﻿YEAR,MONTH,DAY_OF_MONTH,DAY_OF_WEEK,FL_DATE,CARRIER,ORIGIN,ORIGIN_STATE_ABR,DEST,DEST_STATE_ABR,DEP_TIME,WEATHER_DELAY,CANCELLATION_CODE,Conds_Description,Visibility,Pressure,Precipitation,Wind,Wind_Gust,Fog,Snow,Temp,Thunder,Tornado,Rain,Hail,Dest_Conds_Description,Dest_Visibility,Dest_Pressure,Dest_Precipitation,Dest_Wind,Dest_Wind_Gust,Dest_Fog,Dest_Snow,Dest_Temp,Dest_Thunder,Dest_Tornado,Dest_Rain,Dest_Hail
+2017,9,27,3,9/27/2017,B6,BOS,MA,LGB,CA,1916,68,,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,11.5,-9999,0,0,80.1,0,0,0,0,"31    Clear
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,72,0,0,0,0
+2017,9,27,3,9/27/2017,B6,JFK,NY,MVY,MA,1154,18,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,9.2,-9999,0,0,82.9,0,0,0,0,"37    Overcast
+Name: Conds_Description, dtype: object",10,29.92,0,6.9,-9999,0,0,73.9,0,0,0,0
+2017,9,28,4,9/28/2017,B6,FLL,FL,EWR,NJ,1942,81,,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.86,0,9.2,-9999,0,0,82.9,0,0,0,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,23,33.4,0,0,70,0,0,0,0
+2017,9,28,4,9/28/2017,B6,FLL,FL,EWR,NJ,1302,44,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,12.7,-9999,0,0,88,0,0,0,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,21.9,27.6,0,0,78.1,0,0,0,0
+2017,9,29,5,9/29/2017,B6,PBI,FL,JFK,NY,1647,24,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.88,0,6.9,-9999,0,0,75.9,1,0,1,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,15,-9999,0,0,64.9,0,0,0,0
+2017,9,29,5,9/29/2017,B6,LGB,CA,SFO,CA,1102,74,,"21    Clear
+Name: Conds_Description, dtype: object",10,29.92,0,0,-9999,0,0,78.1,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,12.7,-9999,0,0,64.9,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,PBI,FL,1122,41,,"15    Rain
+Name: Conds_Description, dtype: object",5,30.19,0,12.7,-9999,0,0,55,0,0,1,0,"11    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.98,0,4.6,-9999,0,0,84,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,PBI,FL,925,58,,"12    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30.13,0,15,-9999,0,0,54,1,0,1,0,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,3.5,-9999,0,0,80.1,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,IAD,VA,922,53,,"12    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30.13,0,15,-9999,0,0,54,1,0,1,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.22,0,16.1,24.2,0,0,57.9,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,MCO,FL,1247,67,,"16    Light Rain
+Name: Conds_Description, dtype: object",10,30.19,0,13.8,-9999,0,0,57,0,0,1,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,5.8,-9999,0,0,82,0,0,0,0
+2017,9,30,6,9/30/2017,B6,SYR,NY,JFK,NY,1414,79,,"15    Overcast
+Name: Conds_Description, dtype: object",10,30.32,0,10.4,-9999,0,0,55,0,0,0,0,"14    Rain
+Name: Conds_Description, dtype: object",9,30.14,0,11.5,-9999,0,0,59,0,0,1,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,DCA,VA,923,41,,"12    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30.13,0,15,-9999,0,0,54,1,0,1,0,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.21,0,18.4,25.3,0,0,61,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,MSY,LA,927,61,,"12    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30.13,0,15,-9999,0,0,54,1,0,1,0,"7    Clear
+Name: Conds_Description, dtype: object",10,30.03,0,6.9,-9999,0,0,78.1,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,SRQ,FL,1200,15,,"16    Light Rain
+Name: Conds_Description, dtype: object",10,30.19,0,13.8,-9999,0,0,57,0,0,1,0,"13    Overcast
+Name: Conds_Description, dtype: object",10,29.95,0,4.6,-9999,0,0,82.9,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,HOU,TX,931,42,,"13    Rain
+Name: Conds_Description, dtype: object",3,30.15,0,13.8,-9999,0,0,55,0,0,1,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,8.1,-9999,0,0,75.9,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,RIC,VA,1039,36,,"14    Rain
+Name: Conds_Description, dtype: object",4,30.16,0,17.3,-9999,0,0,55,0,0,1,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.22,0,16.1,21.9,0,0,64.9,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,CLT,NC,925,66,,"12    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30.13,0,15,-9999,0,0,54,1,0,1,0,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.18,0,12.7,-9999,0,0,66,0,0,0,0
+2017,9,30,6,9/30/2017,B6,MVY,MA,JFK,NY,1358,35,,"17    Overcast
+Name: Conds_Description, dtype: object",10,30.16,0,12.7,-9999,0,0,57.9,0,0,0,0,"14    Rain
+Name: Conds_Description, dtype: object",9,30.14,0,11.5,-9999,0,0,59,0,0,1,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,PIT,PA,938,35,,"13    Rain
+Name: Conds_Description, dtype: object",3,30.15,0,13.8,-9999,0,0,55,0,0,1,0,"8    Clear
+Name: Conds_Description, dtype: object",10,30.36,0,8.1,-9999,0,0,51.1,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,JFK,NY,942,69,,"13    Rain
+Name: Conds_Description, dtype: object",3,30.15,0,13.8,-9999,0,0,55,0,0,1,0,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,13.8,-9999,0,0,61,0,0,0,0
+2017,9,30,6,9/30/2017,B6,BOS,MA,EWR,NJ,958,32,,"14    Rain
+Name: Conds_Description, dtype: object",4,30.16,0,17.3,-9999,0,0,55,0,0,1,0,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,9.2,-9999,0,0,61,0,0,0,0
+2017,9,1,5,9/1/2017,AS,IAH,TX,SEA,WA,811,96,,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,0,-9999,0,0,73,0,0,0,0,"7    Clear
+Name: Conds_Description, dtype: object",10,30.19,0,8.1,-9999,0,0,61,0,0,0,0
+2017,9,2,6,9/2/2017,AS,IAH,TX,SEA,WA,759,91,,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",6,30.04,0,3.5,-9999,0,0,73,0,0,0,0,"7    Clear
+Name: Conds_Description, dtype: object",10,30.04,0,3.5,-9999,0,0,66.9,0,0,0,0
+2017,9,4,1,9/4/2017,AS,IAH,TX,SEA,WA,818,97,,"7    Shallow Fog
+Name: Conds_Description, dtype: object",4,30.05,0,3.5,-9999,1,0,75,0,0,0,0,"7    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.07,0,10.4,-9999,0,0,70,0,0,0,0
+2017,9,5,2,9/5/2017,AS,PHL,PA,SEA,WA,2001,175,,"22    Light Rain
+Name: Conds_Description, dtype: object",7,29.82,0,8.1,-9999,0,0,73.9,0,0,1,0,"21    Smoke
+Name: Conds_Description, dtype: object",6,29.91,0,0,-9999,0,0,75.2,0,0,0,0
+2017,9,5,2,9/5/2017,AS,EWR,NJ,PDX,OR,1954,243,,"20    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",3,29.8,0,27.6,39.1,0,0,73.9,1,0,1,0,"21    Smoke
+Name: Conds_Description, dtype: object",3,29.88,0,3.5,-9999,0,0,80.6,0,0,0,0
+2017,9,5,2,9/5/2017,AS,EWR,NJ,SJC,CA,1935,130,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.75,0,12.7,-9999,0,0,82.9,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,15,-9999,0,0,78.1,0,0,0,0
+2017,9,11,1,9/11/2017,AS,SFO,CA,PDX,OR,1945,45,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,12.7,23,0,0,86,0,0,0,0
+2017,9,11,1,9/11/2017,AS,SFO,CA,SEA,WA,1936,36,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.05,0,4.6,-9999,0,0,77,0,0,0,0
+2017,9,11,1,9/11/2017,AS,SFO,CA,SLC,UT,1927,37,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,10.4,-9999,0,0,88,0,0,0,0
+2017,9,1,5,9/1/2017,OO,ORD,IL,EWR,NJ,733,15,,"6    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.19,0,11.5,-9999,0,0,57.9,0,0,0,0,"6    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,16.1,-9999,0,0,55,0,0,0,0
+2017,9,1,5,9/1/2017,OO,SEA,WA,SFO,CA,920,100,,"8    Clear
+Name: Conds_Description, dtype: object",10,30.19,0,9.2,-9999,0,0,64.9,0,0,0,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",8,29.82,0,3.5,-9999,0,0,73,0,0,0,0
+2017,9,1,5,9/1/2017,OO,DEN,CO,COU,MO,2127,81,,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,10.4,-9999,0,0,66.9,0,0,0,0,"21    Clear
+Name: Conds_Description, dtype: object",10,30.08,0,6.9,-9999,0,0,64.9,0,0,0,0
+2017,9,1,5,9/1/2017,OO,BUR,CA,DEN,CO,1828,148,,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.68,0,3.5,-9999,0,0,102,0,0,0,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,9.2,-9999,0,0,82.9,0,0,0,0
+2017,9,4,1,9/4/2017,OO,CVG,KY,ORD,IL,2345,10,,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.78,0,13.8,23,0,0,75.9,0,0,0,0,"25    Overcast
+Name: Conds_Description, dtype: object",10,29.81,0,6.9,-9999,0,0,64.9,0,0,0,0
+2017,9,4,1,9/4/2017,OO,ORD,IL,CVG,KY,1917,116,,"21    Overcast
+Name: Conds_Description, dtype: object",10,29.75,0,15,-9999,0,0,72,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,13.8,19.6,0,0,81,0,0,0,0
+2017,9,4,1,9/4/2017,OO,ORD,IL,CLE,OH,1845,10,,"20    Overcast
+Name: Conds_Description, dtype: object",10,29.74,0,17.3,-9999,0,0,75,0,0,0,0,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.69,0,20.7,29.9,0,0,86,0,0,0,0
+2017,9,4,1,9/4/2017,OO,ORD,IL,BHM,AL,2009,74,,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.76,0,11.5,-9999,0,0,71.1,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30,0,3.5,-9999,0,0,80.1,0,0,0,0
+2017,9,4,1,9/4/2017,OO,CVG,KY,ORD,IL,2120,42,,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,12.7,-9999,0,0,78.1,0,0,0,0,"23    Overcast
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,66.9,0,0,0,0
+2017,9,4,1,9/4/2017,OO,SLC,UT,SFO,CA,1025,120,,"9    Clear
+Name: Conds_Description, dtype: object",10,30.01,0,0,-9999,0,0,79,0,0,0,0,"9    Haze
+Name: Conds_Description, dtype: object",4,29.85,0,4.6,-9999,0,0,72,0,0,0,0
+2017,9,4,1,9/4/2017,OO,SEA,WA,SFO,CA,940,119,,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.07,0,18.4,-9999,0,0,72,0,0,0,0,"8    Haze
+Name: Conds_Description, dtype: object",4,29.84,0,4.6,-9999,0,0,72,0,0,0,0
+2017,9,4,1,9/4/2017,OO,LAX,CA,SFO,CA,1610,57,,"17    Overcast
+Name: Conds_Description, dtype: object",10,29.91,0,9.2,-9999,0,0,75.9,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,10.4,-9999,0,0,82,0,0,0,0
+2017,9,4,1,9/4/2017,OO,DTW,MI,ORD,IL,49,174,,"3    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,5.8,-9999,0,0,57,0,0,0,0,"3    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.82,0,11.5,-9999,0,0,69.1,0,0,0,0
+2017,9,4,1,9/4/2017,OO,LAX,CA,SFO,CA,1019,19,,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.94,0,6.9,-9999,0,0,75.9,0,0,0,0,"9    Haze
+Name: Conds_Description, dtype: object",4,29.85,0,4.6,-9999,0,0,72,0,0,0,0
+2017,9,4,1,9/4/2017,OO,CLE,OH,ORD,IL,1918,73,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.65,0,21.9,29.9,0,0,84.9,0,0,0,0,"21    Overcast
+Name: Conds_Description, dtype: object",10,29.75,0,15,-9999,0,0,72,0,0,0,0
+2017,9,17,7,9/17/2017,OO,LAX,CA,DEN,CO,1642,42,,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,15,-9999,0,0,71.1,0,0,0,0,"17    Light Rain
+Name: Conds_Description, dtype: object",10,29.92,0,19.6,26.5,0,0,66,0,0,1,0
+2017,9,17,7,9/17/2017,OO,CVG,KY,ORD,IL,2114,30,,"20    Clear
+Name: Conds_Description, dtype: object",10,30.06,0,0,-9999,0,0,73.9,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.09,0,8.1,-9999,0,0,71.1,0,0,0,0
+2017,9,17,7,9/17/2017,OO,MSP,MN,EWR,NJ,1612,72,,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.13,0,9.2,-9999,0,0,66,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,6.9,-9999,0,0,80.1,0,0,0,0
+2017,9,17,7,9/17/2017,OO,EWR,NJ,MSP,MN,1846,591,,"22    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.1,0,5.8,-9999,0,0,75,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.12,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,17,7,9/17/2017,OO,SEA,WA,SFO,CA,820,34,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,10.4,-9999,0,0,54,0,0,0,0,"7    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,3.5,-9999,0,0,57.9,0,0,0,0
+2017,9,17,7,9/17/2017,OO,CVG,KY,BOS,MA,1310,65,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.12,0,0,-9999,0,0,80.1,0,0,0,0,"31    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.15,0,4.6,-9999,0,0,72,0,0,0,0
+2017,9,17,7,9/17/2017,OO,ORD,IL,PVD,RI,804,659,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,4.6,-9999,0,0,71.1,0,0,0,0,"13    Fog
+Name: Conds_Description, dtype: object",0.5,30.19,0,3.5,-9999,1,0,64,0,0,0,0
+2017,9,17,7,9/17/2017,OO,SCE,PA,ORD,IL,919,110,,conds,0,0,0,0,0,0,0,0,0,0,0,0,conds,0,0,0,0,0,0,0,0,0,0,0,0
+2017,9,17,7,9/17/2017,OO,RAP,SD,DEN,CO,1233,20,,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.11,0,21.9,-9999,0,0,55.4,0,0,0,0,"11    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,5.8,-9999,0,0,69.1,0,0,0,0
+2017,9,18,1,9/18/2017,OO,IAH,TX,SLC,UT,838,811,,"11    Shallow Fog
+Name: Conds_Description, dtype: object",8,30.01,0,0,-9999,1,0,77,0,0,0,0,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.82,0,6.9,-9999,0,0,63,0,0,0,0
+2017,9,18,1,9/18/2017,OO,SLC,UT,SFO,CA,1051,146,,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.81,0,16.1,21.9,0,0,72,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,10.4,-9999,0,0,69.1,0,0,0,0
+2017,9,18,1,9/18/2017,OO,LAX,CA,SFO,CA,1220,140,,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",8,29.96,0,10.4,-9999,0,0,71.1,0,0,0,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.99,0,24.2,-9999,0,0,72,0,0,0,0
+2017,9,18,1,9/18/2017,OO,LAX,CA,SFO,CA,1452,151,,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,13.8,-9999,0,0,73,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,15,-9999,0,0,69.1,0,0,0,0
+2017,9,18,1,9/18/2017,OO,LAX,CA,SFO,CA,1625,79,,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,12.7,-9999,0,0,72,0,0,0,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,20.7,27.6,0,0,71.1,0,0,0,0
+2017,9,18,1,9/18/2017,OO,ORD,IL,COS,CO,2135,109,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,9.2,-9999,0,0,66.9,0,0,0,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,10.4,-9999,0,0,66.9,0,0,0,0
+2017,9,18,1,9/18/2017,OO,SCE,PA,ORD,IL,1051,216,,conds,0,0,0,0,0,0,0,0,0,0,0,0,conds,0,0,0,0,0,0,0,0,0,0,0,0
+2017,9,18,1,9/18/2017,OO,SFO,CA,ACV,CA,1000,42,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,10.4,-9999,0,0,69.1,0,0,0,0,"39    Overcast
+Name: Conds_Description, dtype: object",2,30,0,6.9,-9999,0,0,59,0,0,0,0
+2017,9,18,1,9/18/2017,OO,PVD,RI,ORD,IL,1153,349,,"16    Overcast
+Name: Conds_Description, dtype: object",10,30.16,0,8.1,-9999,0,0,73,0,0,0,0,"11    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.09,0,5.8,-9999,0,0,73.9,0,0,0,0
+2017,9,19,2,9/19/2017,OO,ORD,IL,CID,IA,1029,119,,"14    Overcast
+Name: Conds_Description, dtype: object",5,29.96,0,4.6,-9999,0,0,69.1,0,0,0,0,"17    Overcast
+Name: Conds_Description, dtype: object",0.8,29.95,0,6.9,-9999,0,0,64,0,0,0,0
+2017,9,19,2,9/19/2017,OO,MCI,MO,ORD,IL,1656,31,,"23    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.68,0,19.6,27.6,0,0,86,0,0,0,0,"22    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,10.4,-9999,0,0,77,0,0,0,0
+2017,9,19,2,9/19/2017,OO,ORD,IL,CID,IA,1030,30,,"14    Overcast
+Name: Conds_Description, dtype: object",5,29.96,0,4.6,-9999,0,0,69.1,0,0,0,0,"17    Overcast
+Name: Conds_Description, dtype: object",0.8,29.95,0,6.9,-9999,0,0,64,0,0,0,0
+2017,9,19,2,9/19/2017,OO,BHM,AL,ORD,IL,1551,26,,"18    Light Rain
+Name: Conds_Description, dtype: object",4,29.98,0,9.2,-9999,0,0,75.9,0,0,1,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,8.1,-9999,0,0,77,0,0,0,0
+2017,9,19,2,9/19/2017,OO,CID,IA,ORD,IL,1118,290,,"20    Overcast
+Name: Conds_Description, dtype: object",4,29.95,0,8.1,-9999,0,0,64.9,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",7,29.96,0,5.8,-9999,0,0,71.1,0,0,0,0
+2017,9,19,2,9/19/2017,OO,MSP,MN,EWR,NJ,1640,99,,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.76,0,16.1,26.5,0,0,79,0,0,0,0,"18    Light Rain
+Name: Conds_Description, dtype: object",10,29.9,0,15,26.5,0,0,75.9,0,0,1,0
+2017,9,19,2,9/19/2017,OO,CVG,KY,BOS,MA,1236,31,,"12    Light Rain
+Name: Conds_Description, dtype: object",3,30,0,8.1,-9999,0,0,70,0,0,1,0,"15    Heavy Rain
+Name: Conds_Description, dtype: object",1.8,30.1,0,13.8,-9999,0,0,64,0,0,1,0
+2017,9,19,2,9/19/2017,OO,SFO,CA,OTH,OR,1207,21,,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,3.5,-9999,0,0,68,0,0,0,0,"11    Overcast
+Name: Conds_Description, dtype: object",10,30,0,12.7,-9999,0,0,64,0,0,0,0
+2017,9,20,3,9/20/2017,OO,ORD,IL,GRB,WI,2154,4,,"23    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,6.9,-9999,0,0,82,0,0,0,0,"36    Light Rain
+Name: Conds_Description, dtype: object",10,29.86,0,11.5,-9999,0,0,72,1,0,1,0
+2017,9,20,3,9/20/2017,OO,ICT,KS,ORD,IL,2005,44,,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.74,0,9.2,-9999,0,0,84.9,0,0,0,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.84,0,10.4,-9999,0,0,84,0,0,0,0
+2017,9,20,3,9/20/2017,OO,LAX,CA,SFO,CA,1933,92,,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,10.4,-9999,0,0,69.1,0,0,0,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,16.1,20.7,0,0,64,0,0,0,0
+2017,9,20,3,9/20/2017,OO,SLC,UT,SFO,CA,954,89,,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.84,0,13.8,-9999,0,0,57.9,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",10,29.95,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,20,3,9/20/2017,OO,SEA,WA,SFO,CA,821,41,,"12    Overcast
+Name: Conds_Description, dtype: object",6,29.65,0,5.8,-9999,0,0,51.1,0,0,0,0,"7    Overcast
+Name: Conds_Description, dtype: object",8,29.96,0,3.5,-9999,0,0,62.1,0,0,0,0
+2017,9,20,3,9/20/2017,OO,LAX,CA,SFO,CA,1942,162,,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,10.4,-9999,0,0,69.1,0,0,0,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,16.1,20.7,0,0,64,0,0,0,0
+2017,9,20,3,9/20/2017,OO,LAX,CA,SFO,CA,1025,21,,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.91,0,8.1,-9999,0,0,73,0,0,0,0,"10    Overcast
+Name: Conds_Description, dtype: object",9,29.96,0,10.4,-9999,0,0,66,0,0,0,0
+2017,9,20,3,9/20/2017,OO,SBN,IN,ORD,IL,900,15,,"25    Fog
+Name: Conds_Description, dtype: object",0.5,29.98,0,8.1,-9999,1,0,64,0,0,0,0,"10    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,11.5,-9999,0,0,73,0,0,0,0
+2017,9,20,3,9/20/2017,OO,IAH,TX,SLC,UT,1504,33,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.65,0,18.4,26.5,0,0,75,0,0,0,0
+2017,9,6,3,9/6/2017,OO,CVG,KY,ORD,IL,2057,25,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,9.2,-9999,0,0,57,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.03,0,6.9,-9999,0,0,57.9,0,0,0,0
+2017,9,6,3,9/6/2017,OO,SEA,WA,SFO,CA,822,42,,"7    Overcast
+Name: Conds_Description, dtype: object",7,29.99,0,3.5,-9999,0,0,64.4,0,0,0,0,"8    Overcast
+Name: Conds_Description, dtype: object",8,29.97,0,0,-9999,0,0,68,0,0,0,0
+2017,9,6,3,9/6/2017,OO,LAX,CA,SFO,CA,836,17,,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",7,29.95,0,4.6,-9999,0,0,71.1,0,0,0,0,"8    Overcast
+Name: Conds_Description, dtype: object",8,29.97,0,0,-9999,0,0,68,0,0,0,0
+2017,9,6,3,9/6/2017,OO,SFO,CA,ACV,CA,946,36,,"9    Overcast
+Name: Conds_Description, dtype: object",8,29.97,0,6.9,-9999,0,0,66.9,0,0,0,0,"41    Overcast
+Name: Conds_Description, dtype: object",3,29.98,0,4.6,-9999,0,0,61,0,0,0,0
+2017,9,7,4,9/7/2017,OO,SEA,WA,SFO,CA,845,65,,"6    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,3.5,-9999,0,0,62.6,0,0,0,0,"7    Overcast
+Name: Conds_Description, dtype: object",9,29.96,0,5.8,-9999,0,0,66.9,0,0,0,0
+2017,9,7,4,9/7/2017,OO,SEA,WA,SFO,CA,1548,31,,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,3.5,-9999,0,0,73.9,0,0,0,0,"14    Overcast
+Name: Conds_Description, dtype: object",10,29.96,0,9.2,-9999,0,0,71.1,0,0,0,0
+2017,9,7,4,9/7/2017,OO,LNK,NE,DEN,CO,1139,297,,"10    Clear
+Name: Conds_Description, dtype: object",10,30.12,0,6.9,-9999,0,0,70,0,0,0,0,"10    Partly Cloudy
+Name: Conds_Description, dtype: object",9,29.95,0,0,-9999,0,0,73.9,0,0,0,0
+2017,9,8,5,9/8/2017,OO,SLC,UT,SFO,CA,910,45,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,10.4,-9999,0,0,75,0,0,0,0,"8    Overcast
+Name: Conds_Description, dtype: object",9,29.92,0,8.1,-9999,0,0,62.1,0,0,0,0
+2017,9,8,5,9/8/2017,OO,LAX,CA,SFO,CA,846,35,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.9,0,4.6,-9999,0,0,71.1,0,0,0,0,"7    Overcast
+Name: Conds_Description, dtype: object",9,29.91,0,10.4,-9999,0,0,62.1,0,0,0,0
+2017,9,8,5,9/8/2017,OO,LAX,CA,SFO,CA,1035,19,,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.91,0,0,-9999,0,0,73,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",9,29.93,0,5.8,-9999,0,0,63,0,0,0,0
+2017,9,8,5,9/8/2017,OO,LEX,KY,ORD,IL,1117,22,,"10    Clear
+Name: Conds_Description, dtype: object",10,30.26,0,8.1,-9999,0,0,66.9,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.2,0,11.5,-9999,0,0,68,0,0,0,0
+2017,9,20,3,9/20/2017,OO,MSY,LA,ORD,IL,1737,8,,"22    Light Rain
+Name: Conds_Description, dtype: object",9,29.96,0,8.1,-9999,0,0,73.9,1,0,1,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,19.6,-9999,0,0,91,0,0,0,0
+2017,9,23,6,9/23/2017,OO,ORD,IL,AVL,NC,717,7,,"6    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.06,0,0,-9999,0,0,73.9,0,0,0,0,"20    Fog
+Name: Conds_Description, dtype: object",0.2,30.07,0,3.5,-9999,1,0,64,0,0,0,0
+2017,9,23,6,9/23/2017,OO,ORD,IL,ATL,GA,639,21,,"5    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,0,-9999,0,0,73.9,0,0,0,0,"5    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,4.6,-9999,0,0,72,0,0,0,0
+2017,9,23,6,9/23/2017,OO,ORD,IL,PIA,IL,1033,76,,"9    Clear
+Name: Conds_Description, dtype: object",10,30.08,0,3.5,-9999,0,0,84.9,0,0,0,0,"9    Clear
+Name: Conds_Description, dtype: object",10,30.08,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,24,7,9/24/2017,OO,RKS,WY,DEN,CO,1710,19,,"45    Light Thunderstorms and Snow
+Name: Conds_Description, dtype: object",5,30.01,0,11.5,28.8,0,1,36,1,0,0,0,"34    Overcast
+Name: Conds_Description, dtype: object",5,29.9,0,13.8,-9999,0,0,48,0,0,0,0
+2017,9,24,7,9/24/2017,OO,ORD,IL,PHL,PA,801,16,,"7    Clear
+Name: Conds_Description, dtype: object",8,30.08,0,4.6,-9999,0,0,73.9,0,0,0,0,"7    Clear
+Name: Conds_Description, dtype: object",10,30.09,0,5.8,-9999,0,0,72,0,0,0,0
+2017,9,9,6,9/9/2017,OO,LAX,CA,SFO,CA,824,19,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,8.1,-9999,0,0,68,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,3.5,-9999,0,0,64,0,0,0,0
+2017,9,9,6,9/9/2017,OO,LAX,CA,SFO,CA,1018,18,,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",9,29.99,0,0,-9999,0,0,72,0,0,0,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,5.8,-9999,0,0,68,0,0,0,0
+2017,9,10,7,9/10/2017,OO,ORD,IL,COU,MO,1328,39,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.42,0,10.4,-9999,0,0,69.1,0,0,0,0,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.3,0,8.1,19.6,0,0,81,0,0,0,0
+2017,9,11,1,9/11/2017,OO,ORD,IL,DSM,IA,1333,78,,"12    Clear
+Name: Conds_Description, dtype: object",10,30.25,0,4.6,-9999,0,0,73,0,0,0,0,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.18,0,6.9,-9999,0,0,80.1,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,LAX,CA,1333,35,,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,5.8,-9999,0,0,79,0,0,0,0,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,16.1,-9999,0,0,78.1,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,RNO,NV,1918,68,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,36.8,42.6,0,0,82.9,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,BOI,ID,1145,35,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.92,0,8.1,-9999,0,0,73.9,0,0,0,0,"10    Clear
+Name: Conds_Description, dtype: object",7,30.14,0,3.5,-9999,0,0,73.9,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,SLC,UT,2323,216,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Clear
+Name: Conds_Description, dtype: object",10,29.96,0,4.6,-9999,0,0,75.9,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,RDM,OR,2313,3,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Clear
+Name: Conds_Description, dtype: object",10,30,0,8.1,-9999,0,0,69.1,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,PSP,CA,1951,93,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.79,0,5.8,-9999,0,0,100.9,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,RDM,OR,1935,80,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Clear
+Name: Conds_Description, dtype: object",10,30.01,0,11.5,-9999,0,0,82,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,TUS,AZ,2003,71,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Overcast
+Name: Conds_Description, dtype: object",10,29.81,0,3.5,-9999,0,0,96.1,0,0,0,0
+2017,9,11,1,9/11/2017,OO,SBA,CA,SFO,CA,2223,95,,"24    Clear
+Name: Conds_Description, dtype: object",8,29.91,0,3.5,-9999,0,0,66.9,0,0,0,0,"24    Thunderstorm
+Name: Conds_Description, dtype: object",9,29.88,0,5.8,-9999,0,0,68,1,0,0,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,FAT,CA,1945,60,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"25    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.87,0,9.2,-9999,0,0,80.1,1,0,1,0
+2017,9,11,1,9/11/2017,OO,SFO,CA,DFW,TX,1941,106,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Clear
+Name: Conds_Description, dtype: object",10,29.95,0,9.2,-9999,0,0,82,0,0,0,0
+2017,9,12,2,9/12/2017,OO,SBA,CA,SFO,CA,2218,5,,"27    Clear
+Name: Conds_Description, dtype: object",10,29.88,0,0,-9999,0,0,64.9,0,0,0,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,10.4,-9999,0,0,66,0,0,0,0
+2017,9,12,2,9/12/2017,OO,IND,IN,ORD,IL,2020,321,,"20    Overcast
+Name: Conds_Description, dtype: object",10,29.79,0,15,-9999,0,0,70,0,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,6.9,-9999,0,0,66,0,0,0,0
+2017,9,12,2,9/12/2017,OO,SJC,CA,DEN,CO,1106,17,,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.92,0,4.6,-9999,0,0,82,0,0,0,0,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,5.8,-9999,0,0,81,0,0,0,0
+2017,9,13,3,9/13/2017,OO,ORD,IL,LSE,WI,917,41,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.79,0,5.8,-9999,0,0,63,0,0,0,0,"20    Overcast
+Name: Conds_Description, dtype: object",2.5,29.81,0,4.6,-9999,0,0,61,0,0,0,0
+2017,9,25,1,9/25/2017,OO,ORD,IL,ATL,GA,2156,14,,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,5.8,-9999,0,0,75.9,0,0,0,0,"21    Clear
+Name: Conds_Description, dtype: object",10,29.94,0,5.8,-9999,0,0,75.9,0,0,0,0
+2017,9,25,1,9/25/2017,OO,SFO,CA,SNA,CA,703,18,,"6    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,0,-9999,0,0,59,0,0,0,0,"6    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,0,-9999,0,0,60.1,0,0,0,0
+2017,9,25,1,9/25/2017,OO,SLC,UT,SFO,CA,923,37,,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.12,0,8.1,-9999,0,0,45,0,0,0,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,0,-9999,0,0,64,0,0,0,0
+2017,9,25,1,9/25/2017,OO,SEA,WA,SFO,CA,819,27,,"7    Overcast
+Name: Conds_Description, dtype: object",10,30.12,0,4.6,-9999,0,0,57,0,0,0,0,"7    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,0,-9999,0,0,61,0,0,0,0
+2017,9,25,1,9/25/2017,OO,LAR,WY,DEN,CO,704,49,,"19    Light Freezing Fog
+Name: Conds_Description, dtype: object",0.5,30.08,0,5.8,-9999,1,0,28,0,0,0,0,"15    Overcast
+Name: Conds_Description, dtype: object",10,30.03,0,9.2,-9999,0,0,44.1,0,0,0,0
+2017,9,25,1,9/25/2017,OO,ICT,KS,ORD,IL,1514,19,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.85,0,12.7,-9999,0,0,70,1,0,1,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,91.9,0,0,0,0
+2017,9,26,2,9/26/2017,OO,ORD,IL,GSP,SC,1412,14,,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,16.1,-9999,0,0,91,0,0,0,0,"13    Clear
+Name: Conds_Description, dtype: object",10,29.93,0,9.2,-9999,0,0,86,0,0,0,0
+2017,9,27,3,9/27/2017,OO,SFO,CA,LAX,CA,831,24,,"7    Clear
+Name: Conds_Description, dtype: object",10,29.88,0,3.5,-9999,0,0,64.9,0,0,0,0,"16    Patches of Fog
+Name: Conds_Description, dtype: object",1,29.89,0,3.5,-9999,1,0,63,0,0,0,0
+2017,9,28,4,9/28/2017,OO,ORD,IL,TVC,MI,2129,89,,"20    Clear
+Name: Conds_Description, dtype: object",10,30.12,0,6.9,-9999,0,0,63,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,0,-9999,0,0,61,0,0,0,0
+2017,9,28,4,9/28/2017,OO,ORD,IL,CAK,OH,1856,20,,"18    Clear
+Name: Conds_Description, dtype: object",10,30.11,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,8.1,-9999,0,0,61,0,0,0,0
+2017,9,28,4,9/28/2017,OO,SLC,UT,SFO,CA,949,77,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.11,0,16.1,-9999,0,0,59,0,0,0,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,11.5,-9999,0,0,62.1,0,0,0,0
+2017,9,13,3,9/13/2017,OO,SLC,UT,SFO,CA,1002,76,,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.86,0,10.4,-9999,0,0,73.9,0,0,0,0,"11    Overcast
+Name: Conds_Description, dtype: object",10,29.89,0,11.5,-9999,0,0,66.9,0,0,0,0
+2017,9,13,3,9/13/2017,OO,SEA,WA,SFO,CA,911,87,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.03,0,5.8,-9999,0,0,55.9,0,0,0,0,"10    Overcast
+Name: Conds_Description, dtype: object",10,29.89,0,5.8,-9999,0,0,66.9,0,0,0,0
+2017,9,13,3,9/13/2017,OO,LAX,CA,SFO,CA,1229,29,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.92,0,10.4,-9999,0,0,72,0,0,0,0,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,13.8,-9999,0,0,69.1,0,0,0,0
+2017,9,14,4,9/14/2017,OO,MKE,WI,ORD,IL,707,77,,"11    Overcast
+Name: Conds_Description, dtype: object",0.8,29.86,0,3.5,-9999,0,0,63,0,0,0,0,"11    Overcast
+Name: Conds_Description, dtype: object",0.8,29.87,0,3.5,-9999,0,0,62.1,0,0,0,0
+2017,9,14,4,9/14/2017,OO,MKE,WI,ORD,IL,750,43,,"12    Overcast
+Name: Conds_Description, dtype: object",1.8,29.87,0,5.8,-9999,0,0,64,0,0,0,0,"11    Overcast
+Name: Conds_Description, dtype: object",0.8,29.87,0,3.5,-9999,0,0,62.1,0,0,0,0
+2017,9,14,4,9/14/2017,OO,CID,IA,ORD,IL,646,26,,"5    Clear
+Name: Conds_Description, dtype: object",10,29.78,0,5.8,-9999,0,0,57.9,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",1.2,29.85,0,4.6,-9999,0,0,62.1,0,0,0,0
+2017,9,14,4,9/14/2017,OO,LAX,CA,DEN,CO,803,68,,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.92,0,3.5,-9999,0,0,66,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.72,0,11.5,-9999,0,0,66,0,0,0,0
+2017,9,14,4,9/14/2017,OO,SEA,WA,SFO,CA,842,49,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,8.1,-9999,0,0,55.9,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,11.5,-9999,0,0,61,0,0,0,0
+2017,9,14,4,9/14/2017,OO,DEN,CO,LAX,CA,1152,12,,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.71,0,6.9,-9999,0,0,84,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,10.4,-9999,0,0,72,0,0,0,0
+2017,9,14,4,9/14/2017,OO,COS,CO,ORD,IL,1139,158,,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.75,0,5.8,-9999,0,0,82,0,0,0,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",7,29.91,0,5.8,-9999,0,0,71.1,0,0,0,0
+2017,9,14,4,9/14/2017,OO,MSN,WI,ORD,IL,659,89,,"19    Fog
+Name: Conds_Description, dtype: object",0.1,29.84,0,5.8,-9999,1,0,57,0,0,0,0,"10    Overcast
+Name: Conds_Description, dtype: object",1,29.86,0,3.5,-9999,0,0,62.1,0,0,0,0
+2017,9,14,4,9/14/2017,OO,ORD,IL,GRR,MI,841,32,,"14    Overcast
+Name: Conds_Description, dtype: object",1.8,29.9,0,3.5,-9999,0,0,63,0,0,0,0,"30    Fog
+Name: Conds_Description, dtype: object",0.2,29.89,0,4.6,-9999,1,0,55.9,0,0,0,0
+2017,9,14,4,9/14/2017,OO,SFO,CA,MCI,MO,1300,10,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,17.3,-9999,0,0,68,0,0,0,0,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.82,0,11.5,-9999,0,0,82.9,0,0,0,0
+2017,9,14,4,9/14/2017,OO,TUS,AZ,SFO,CA,1300,15,,"12    Clear
+Name: Conds_Description, dtype: object",10,29.72,0,18.4,29.9,0,0,97,0,0,0,0,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,17.3,-9999,0,0,68,0,0,0,0
+2017,9,14,4,9/14/2017,OO,PVD,RI,ORD,IL,632,32,,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,5.8,-9999,0,0,69.1,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",1.2,29.85,0,4.6,-9999,0,0,62.1,0,0,0,0
+2017,9,15,5,9/15/2017,OO,DTW,MI,EWR,NJ,830,73,,"24    Shallow Fog
+Name: Conds_Description, dtype: object",4,30.09,0,4.6,-9999,1,0,59,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.02,0,0,-9999,0,0,71.1,0,0,0,0
+2017,9,15,5,9/15/2017,OO,LIT,AR,DEN,CO,1709,3,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.95,0,10.4,-9999,0,0,86,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.55,0,10.4,-9999,0,0,81,0,0,0,0
+2017,9,16,6,9/16/2017,OO,MCI,MO,ORD,IL,1652,39,,"20    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",8,29.9,0,18.4,-9999,0,0,72,1,0,1,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,10.4,-9999,0,0,86,0,0,0,0
+2017,9,16,6,9/16/2017,OO,ORD,IL,AVL,NC,720,10,,"6    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.06,0,3.5,-9999,0,0,64.9,0,0,0,0,"36    Fog
+Name: Conds_Description, dtype: object",0.2,30.17,0,0,-9999,1,0,57,0,0,0,0
+2017,9,16,6,9/16/2017,OO,ORD,IL,GRR,MI,1601,65,,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.02,0,11.5,-9999,0,0,86,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,10.4,-9999,0,0,86,0,0,0,0
+2017,9,28,4,9/28/2017,OO,ISN,ND,DEN,CO,1408,358,,"13    Clear
+Name: Conds_Description, dtype: object",10,30.25,0,8.1,-9999,0,0,70,0,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.18,0,15,-9999,0,0,57.9,0,0,0,0
+2017,9,29,5,9/29/2017,OO,COS,CO,ORD,IL,854,89,,"13    Light Rain
+Name: Conds_Description, dtype: object",0.1,30.3,0,11.5,-9999,1,0,46.9,0,0,1,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.18,0,13.8,-9999,0,0,62.1,0,0,0,0
+2017,9,29,5,9/29/2017,OO,MSP,MN,EWR,NJ,1614,57,,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.35,0,5.8,-9999,0,0,64.9,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,11.5,21.9,0,0,70,0,0,0,0
+2017,9,29,5,9/29/2017,OO,SLC,UT,SFO,CA,919,44,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.06,0,8.1,-9999,0,0,57.9,0,0,0,0,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,11.5,-9999,0,0,61,0,0,0,0
+2017,9,29,5,9/29/2017,OO,LAX,CA,SFO,CA,827,27,,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,4.6,-9999,0,0,66.2,0,0,0,0,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,10.4,-9999,0,0,60.1,0,0,0,0
+2017,9,30,6,9/30/2017,OO,SFO,CA,SBP,CA,858,71,,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,8.1,-9999,0,0,61,0,0,0,0,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,9.2,-9999,0,0,57.9,0,0,0,0
+2017,9,30,6,9/30/2017,OO,ORD,IL,RAP,SD,1050,22,,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.45,0,8.1,-9999,0,0,62.1,0,0,0,0,"15    Clear
+Name: Conds_Description, dtype: object",10,29.87,0,25.3,31.1,0,0,60.6,0,0,0,0
+2017,9,29,5,9/29/2017,UA,ORD,IL,IAH,TX,2149,23,,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.32,0,6.9,-9999,0,0,59,0,0,0,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,9.2,-9999,0,0,80.1,0,0,0,0
+2017,9,29,5,9/29/2017,UA,ORD,IL,SJU,PR,851,61,,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.18,0,13.8,-9999,0,0,62.1,0,0,0,0,"4    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.94,0,3.5,-9999,0,0,80.1,0,0,0,0
+2017,9,28,4,9/28/2017,UA,SJU,PR,ORD,IL,1633,1,,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,17.3,-9999,0,0,84.2,0,0,0,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.13,0,5.8,-9999,0,0,72,0,0,0,0
+2017,9,28,4,9/28/2017,UA,SJU,PR,EWR,NJ,1434,15,,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,21.9,27.6,0,0,86,0,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.76,0,19.6,34.5,0,0,78.1,0,0,0,0
+2017,9,28,4,9/28/2017,UA,ORD,IL,SJU,PR,845,55,,"7    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.21,0,9.2,-9999,0,0,57,0,0,0,0,"6    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.98,0,5.8,-9999,0,0,82.4,0,0,0,0
+2017,9,27,3,9/27/2017,UA,SJU,PR,EWR,NJ,1524,12,,"14    Haze
+Name: Conds_Description, dtype: object",6,29.91,0,10.4,-9999,0,0,86,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.82,0,6.9,-9999,0,0,87.1,0,0,0,0
+2017,9,27,3,9/27/2017,UA,ORD,IL,SJU,PR,938,88,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,10.4,-9999,0,0,64,0,0,0,0,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",6,29.97,0,11.5,-9999,0,0,84.2,0,0,0,0
+2017,9,14,4,9/14/2017,UA,TPA,FL,IAH,TX,1754,38,,"20    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.96,0,3.5,-9999,0,0,78.1,1,0,1,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,13.8,-9999,0,0,86,0,0,0,0
+2017,9,14,4,9/14/2017,UA,BOS,MA,IAH,TX,2232,10,,"28    Overcast
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,70,0,0,0,0,"21    Clear
+Name: Conds_Description, dtype: object",10,29.89,0,5.8,-9999,0,0,77,0,0,0,0
+2017,9,14,4,9/14/2017,UA,BOS,MA,EWR,NJ,1930,10,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.89,0,8.1,-9999,0,0,73,1,0,1,0,"29    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,8.1,-9999,0,0,79,0,0,0,0
+2017,9,14,4,9/14/2017,UA,BOS,MA,ORD,IL,2040,15,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,4.6,-9999,0,0,73.9,0,0,0,0,"32    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,73,0,0,0,0
+2017,9,14,4,9/14/2017,UA,BOS,MA,SFO,CA,2012,86,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.92,0,16.1,24.2,0,0,73,1,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,19.6,23,0,0,63,0,0,0,0
+2017,9,12,2,9/12/2017,UA,SFO,CA,LAX,CA,1038,23,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,5.8,-9999,0,0,73,0,0,0,0,"26    Overcast
+Name: Conds_Description, dtype: object",5,29.95,0,9.2,-9999,0,0,68,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,PIT,PA,2352,17,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"23    Overcast
+Name: Conds_Description, dtype: object",10,30.14,0,5.8,-9999,0,0,60.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,RNO,NV,825,439,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,4.6,-9999,0,0,70,0,0,0,0,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.07,0,0,-9999,0,0,64,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,SBA,CA,1933,114,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"21    Clear
+Name: Conds_Description, dtype: object",9,29.86,0,13.8,-9999,0,0,71.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,PHL,PA,132,167,,"0    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,4.6,-9999,0,0,75,0,0,0,0,"0    Clear
+Name: Conds_Description, dtype: object",10,30.35,0,8.1,-9999,0,0,61,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,LAS,NV,2028,23,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.82,0,3.5,-9999,0,0,96.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,LAS,NV,2026,16,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.82,0,3.5,-9999,0,0,96.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,EWR,NJ,2311,30,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,0,-9999,0,0,66,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,PDX,OR,2006,72,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,82,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,LAX,CA,2209,57,,"24    Thunderstorm
+Name: Conds_Description, dtype: object",9,29.88,0,5.8,-9999,0,0,68,1,0,0,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,70,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SJC,CA,DEN,CO,1813,18,,"23    Light Rain
+Name: Conds_Description, dtype: object",9,29.85,0,0,-9999,0,0,88,1,0,1,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,13.8,-9999,0,0,81,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,ATL,GA,2351,58,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"39    Rain
+Name: Conds_Description, dtype: object",2,29.49,0,16.1,32.2,0,0,63,0,0,1,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,LAX,CA,2236,54,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.9,0,3.5,-9999,0,0,69.1,0,0,0,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,70,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,LAS,NV,1931,80,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.81,0,0,-9999,0,0,98.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,IAD,VA,2358,53,,"27    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,0,-9999,0,0,70,0,0,0,0,"23    Overcast
+Name: Conds_Description, dtype: object",10,30.14,0,4.6,-9999,0,0,61,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,DEN,CO,2021,19,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"20    Overcast
+Name: Conds_Description, dtype: object",10,30.05,0,12.7,-9999,0,0,73.9,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,BUR,CA,2051,36,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Clear
+Name: Conds_Description, dtype: object",10,29.86,0,10.4,-9999,0,0,78.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,HNL,HI,2018,39,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.94,0,3.5,-9999,0,0,79,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,IAD,VA,2258,93,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Overcast
+Name: Conds_Description, dtype: object",10,30.16,0,0,-9999,0,0,60.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,SEA,WA,1912,48,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.05,0,4.6,-9999,0,0,77,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,PSP,CA,2324,111,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"24    Clear
+Name: Conds_Description, dtype: object",10,29.84,0,11.5,-9999,0,0,91.9,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,AUS,TX,2020,24,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,5.8,-9999,0,0,73.9,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,DEN,CO,1934,79,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.06,0,17.3,-9999,0,0,73.9,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,MSP,MN,1921,67,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.06,0,4.6,-9999,0,0,80.1,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,MFR,OR,1956,27,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Smoke
+Name: Conds_Description, dtype: object",10,29.84,0,8.1,-9999,0,0,90,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,IAH,TX,1938,85,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,8.1,-9999,0,0,79,0,0,0,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,BNA,TN,2320,15,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Rain
+Name: Conds_Description, dtype: object",6,29.83,0,18.4,25.3,0,0,59,0,0,1,0
+2017,9,11,1,9/11/2017,UA,SFO,CA,SMF,CA,116,154,,"0    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,4.6,-9999,0,0,75,0,0,0,0,"0    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,5.8,-9999,0,0,71.1,0,0,0,0
+2017,9,24,7,9/24/2017,UA,TPA,FL,ORD,IL,1625,15,,"16    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.86,0,9.2,19.6,0,0,82.9,1,0,1,0,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.99,0,8.1,-9999,0,0,91.9,0,0,0,0
+2017,9,24,7,9/24/2017,UA,ORD,IL,SYR,NY,1419,7,,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.02,0,12.7,16.1,0,0,91,0,0,0,0,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,3.5,-9999,0,0,87.1,0,0,0,0
+2017,9,24,7,9/24/2017,UA,FLL,FL,ORD,IL,949,30,,"14    Light Rain
+Name: Conds_Description, dtype: object",4,29.89,0,11.5,-9999,0,0,78.1,0,0,1,0,"8    Clear
+Name: Conds_Description, dtype: object",10,30.08,0,4.6,-9999,0,0,79,0,0,0,0
+2017,9,23,6,9/23/2017,UA,AUS,TX,IAH,TX,719,24,,"11    Fog
+Name: Conds_Description, dtype: object",0.2,29.92,0,0,-9999,1,0,71.6,0,0,0,0,"8    Shallow Fog
+Name: Conds_Description, dtype: object",2,29.93,0,3.5,-9999,1,0,73,0,0,0,0
+2017,9,23,6,9/23/2017,UA,MCO,FL,ORD,IL,1739,2,,"20    Light Rain
+Name: Conds_Description, dtype: object",9,29.88,0,6.9,-9999,0,0,77,0,0,1,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,12.7,-9999,0,0,91,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,SFO,CA,2028,56,,"33    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",9,29.96,0,12.7,-9999,0,0,69.1,1,0,1,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,10.4,-9999,0,0,63,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,ORD,IL,710,10,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,5.8,-9999,0,0,80.1,0,0,0,0,"6    Overcast
+Name: Conds_Description, dtype: object",10,30.16,0,3.5,-9999,0,0,59,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,EWR,NJ,638,28,,"8    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.91,0,9.2,24.2,0,0,81,1,0,0,0,"5    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.06,0,4.6,-9999,0,0,54,0,0,0,0
+2017,9,8,5,9/8/2017,UA,MCO,FL,ORD,IL,1321,31,,"15    Light Rain
+Name: Conds_Description, dtype: object",10,30,0,9.2,-9999,0,0,79,0,0,1,0,"12    Overcast
+Name: Conds_Description, dtype: object",10,30.25,0,10.4,-9999,0,0,64,0,0,0,0
+2017,9,8,5,9/8/2017,UA,TPA,FL,ORD,IL,1640,2,,"24    Light Rain
+Name: Conds_Description, dtype: object",10,29.92,0,4.6,-9999,0,0,84,0,0,1,0,"15    Overcast
+Name: Conds_Description, dtype: object",10,30.25,0,12.7,-9999,0,0,63,0,0,0,0
+2017,9,8,5,9/8/2017,UA,MCO,FL,EWR,NJ,1255,89,,"15    Light Rain
+Name: Conds_Description, dtype: object",10,30,0,9.2,-9999,0,0,79,0,0,1,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,13.8,25.3,0,0,72,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,EWR,NJ,817,15,,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,11.5,-9999,0,0,78.1,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.09,0,8.1,-9999,0,0,59,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,SFO,CA,633,17,,"8    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.91,0,9.2,24.2,0,0,81,1,0,0,0,"5    Overcast
+Name: Conds_Description, dtype: object",9,29.89,0,11.5,-9999,0,0,61,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,EWR,NJ,1327,8,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,8.1,-9999,0,0,78.1,0,0,0,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,13.8,25.3,0,0,72,0,0,0,0
+2017,9,8,5,9/8/2017,UA,MCO,FL,ORD,IL,1745,9,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,10.4,-9999,0,0,82,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.25,0,15,-9999,0,0,64,0,0,0,0
+2017,9,8,5,9/8/2017,UA,MCO,FL,IAH,TX,1314,68,,"15    Light Rain
+Name: Conds_Description, dtype: object",10,30,0,9.2,-9999,0,0,79,0,0,1,0,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.13,0,9.2,-9999,0,0,81,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,SFO,CA,1721,2,,"29    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,5.8,-9999,0,0,80.1,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,18.4,-9999,0,0,66.9,0,0,0,0
+2017,9,8,5,9/8/2017,UA,LAS,NV,EWR,NJ,1003,6,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,11.5,19.6,0,0,78.1,0,0,0,0,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,13.8,-9999,0,0,66,0,0,0,0
+2017,9,7,4,9/7/2017,UA,LAS,NV,EWR,NJ,1608,8,,"16    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.78,0,8.1,-9999,0,0,93,1,0,0,0,"23    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,15,-9999,0,0,73,0,0,0,0
+2017,9,6,3,9/6/2017,UA,FLL,FL,ORD,IL,1608,8,,"19    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,87.1,1,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,12.7,16.1,0,0,66,0,0,0,0
+2017,9,6,3,9/6/2017,UA,ORD,IL,EWR,NJ,1845,59,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,6.9,-9999,0,0,61,0,0,0,0,"23    Light Rain
+Name: Conds_Description, dtype: object",10,29.89,0,12.7,-9999,0,0,63,0,0,1,0
+2017,9,21,4,9/21/2017,UA,ABQ,NM,IAH,TX,1321,91,,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,10.4,20.7,0,0,80.1,0,0,0,0,"16    Thunderstorm
+Name: Conds_Description, dtype: object",7,29.99,0,19.6,-9999,0,0,80.1,1,0,0,0
+2017,9,21,4,9/21/2017,UA,MIA,FL,IAH,TX,1457,12,,"23    Light Rain
+Name: Conds_Description, dtype: object",6,29.94,0,3.5,-9999,0,0,75.9,0,0,1,0,"19    Overcast
+Name: Conds_Description, dtype: object",10,29.94,0,11.5,-9999,0,0,78.1,0,0,0,0
+2017,9,21,4,9/21/2017,UA,EWR,NJ,SFO,CA,1847,47,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,15,-9999,0,0,81,0,0,0,0,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,27.6,35.7,0,0,63,0,0,0,0
+2017,9,21,4,9/21/2017,UA,ORD,IL,DCA,VA,1630,15,,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,5.8,-9999,0,0,93.9,0,0,0,0,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,8.1,-9999,0,0,86,0,0,0,0
+2017,9,20,3,9/20/2017,UA,IAH,TX,LAS,NV,1517,20,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"14    Clear
+Name: Conds_Description, dtype: object",10,29.61,0,11.5,23,0,0,91,0,0,0,0
+2017,9,20,3,9/20/2017,UA,MSY,LA,IAH,TX,1714,16,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,29.99,0,4.6,-9999,0,0,75,1,0,1,0,"20    Light Rain
+Name: Conds_Description, dtype: object",10,29.88,0,4.6,-9999,0,0,84.9,0,0,1,0
+2017,9,20,3,9/20/2017,UA,MSY,LA,SFO,CA,1648,68,,"19    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",8,29.99,0,9.2,-9999,0,0,75.9,1,0,1,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,18.4,-9999,0,0,66.9,0,0,0,0
+2017,9,20,3,9/20/2017,UA,IAH,TX,MSY,LA,1500,15,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"18    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.99,0,11.5,-9999,0,0,80.1,1,0,1,0
+2017,9,20,3,9/20/2017,UA,IAH,TX,ORD,IL,1501,11,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,17.3,-9999,0,0,91,0,0,0,0
+2017,9,20,3,9/20/2017,UA,IAH,TX,DEN,CO,1509,39,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.67,0,11.5,-9999,0,0,78.1,0,0,0,0
+2017,9,20,3,9/20/2017,UA,IAH,TX,SEA,WA,1513,32,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.76,0,6.9,-9999,0,0,55,0,0,0,0
+2017,9,20,3,9/20/2017,UA,IAH,TX,SAN,CA,1522,23,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,13.8,-9999,0,0,71.1,0,0,0,0
+2017,9,20,3,9/20/2017,UA,MSY,LA,IAH,TX,1726,12,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,29.99,0,4.6,-9999,0,0,75,1,0,1,0,"20    Light Rain
+Name: Conds_Description, dtype: object",10,29.88,0,4.6,-9999,0,0,84.9,0,0,1,0
+2017,9,20,3,9/20/2017,UA,IAH,TX,MEM,TN,1553,11,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,9.2,-9999,0,0,90,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,8.1,-9999,0,0,90,0,0,0,0
+2017,9,19,2,9/19/2017,UA,CID,IA,ORD,IL,858,123,,"15    Fog
+Name: Conds_Description, dtype: object",0.1,29.94,0,6.9,-9999,1,0,63,0,0,0,0,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.95,0,3.5,-9999,0,0,69.1,0,0,0,0
+2017,9,19,2,9/19/2017,UA,BQN,PR,EWR,NJ,229,14,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,20.7,28.8,0,0,80.6,0,0,0,0,"1    Overcast
+Name: Conds_Description, dtype: object",10,30.05,0,11.5,-9999,0,0,72,0,0,0,0
+2017,9,19,2,9/19/2017,UA,SJU,PR,EWR,NJ,1436,16,,"13    Overcast
+Name: Conds_Description, dtype: object",10,29.85,0,17.3,-9999,0,0,84.9,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,18.4,26.5,0,0,79,0,0,0,0
+2017,9,19,2,9/19/2017,UA,CID,IA,DEN,CO,1001,32,,"16    Fog
+Name: Conds_Description, dtype: object",0.5,29.94,0,5.8,-9999,1,0,64,0,0,0,0,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.49,0,13.8,-9999,0,0,73,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,ORD,IL,1952,7,,"34    Light Rain
+Name: Conds_Description, dtype: object",10,29.97,0,0,-9999,0,0,75.9,0,0,1,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,9.2,-9999,0,0,66.9,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,LAS,NV,1522,37,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.73,0,10.4,20.7,0,0,93,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,MCO,FL,1338,20,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,12.7,-9999,0,0,84.9,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,ORD,IL,1349,9,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.07,0,9.2,-9999,0,0,75.9,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IND,IN,SFO,CA,2150,60,,"26    Light Rain
+Name: Conds_Description, dtype: object",10,29.99,0,6.9,-9999,0,0,70,0,0,1,0,"23    Clear
+Name: Conds_Description, dtype: object",10,29.96,0,17.3,25.3,0,0,62.1,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,SAT,TX,2033,40,,"35    Light Rain
+Name: Conds_Description, dtype: object",10,29.97,0,0,-9999,0,0,75.9,0,0,1,0,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,15,-9999,0,0,86,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,DEN,CO,1635,11,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,6.9,-9999,0,0,84,0,0,0,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,8.1,-9999,0,0,82,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,SFO,CA,2301,382,,"25    Overcast
+Name: Conds_Description, dtype: object",10,29.83,0,5.8,-9999,0,0,70,0,0,0,0,"22    Clear
+Name: Conds_Description, dtype: object",10,29.97,0,4.6,-9999,0,0,70,0,0,0,0
+2017,9,5,2,9/5/2017,UA,IAD,VA,IAH,TX,1848,94,,"20    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.83,0,11.5,-9999,0,0,70,1,0,1,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,88,0,0,0,0
+2017,9,5,2,9/5/2017,UA,IAD,VA,SFO,CA,1835,45,,"20    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.83,0,11.5,-9999,0,0,70,1,0,1,0,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,3.5,-9999,0,0,79,0,0,0,0
+2017,9,5,2,9/5/2017,UA,PHL,PA,ORD,IL,2011,207,,"22    Light Rain
+Name: Conds_Description, dtype: object",7,29.82,0,8.1,-9999,0,0,73.9,0,0,1,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,60.1,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,SLC,UT,2048,172,,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,8.1,-9999,0,0,72,0,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",7,29.88,0,8.1,-9999,0,0,84.9,0,0,0,0
+2017,9,5,2,9/5/2017,UA,IAD,VA,SFO,CA,1641,11,,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.73,0,18.4,26.5,0,0,84.9,0,0,0,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,4.6,-9999,0,0,81,0,0,0,0
+2017,9,5,2,9/5/2017,UA,ORD,IL,PHL,PA,2034,383,,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,60.1,0,0,0,0,"22    Light Rain
+Name: Conds_Description, dtype: object",7,29.82,0,8.1,-9999,0,0,73.9,0,0,1,0
+2017,9,5,2,9/5/2017,UA,IAD,VA,BOS,MA,1936,141,,"22    Light Rain
+Name: Conds_Description, dtype: object",7,29.83,0,4.6,-9999,0,0,66.9,0,0,1,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.75,0,20.7,-9999,0,0,75,0,0,0,0
+2017,9,5,2,9/5/2017,UA,IAD,VA,DEN,CO,1847,61,,"20    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.83,0,11.5,-9999,0,0,70,1,0,1,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.17,0,6.9,-9999,0,0,68,0,0,0,0
+2017,9,5,2,9/5/2017,UA,MCO,FL,IAH,TX,1821,30,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.94,0,10.4,-9999,0,0,75.9,1,0,1,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,88,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,PDX,OR,1915,75,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.75,0,12.7,-9999,0,0,82.9,0,0,0,0,"19    Smoke
+Name: Conds_Description, dtype: object",2.5,29.86,0,5.8,-9999,0,0,84.2,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,ORD,IL,2134,304,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,71.1,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.95,0,6.9,-9999,0,0,55.9,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,LAS,NV,18,4,,"0    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,9.2,-9999,0,0,69.1,0,0,0,0,"0    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.82,0,3.5,-9999,0,0,90,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,BOS,MA,1836,139,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.73,0,13.8,24.2,0,0,84,0,0,0,0,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.74,0,17.3,-9999,0,0,79,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,LAX,CA,2006,228,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",3,29.8,0,17.3,39.1,0,0,72,1,0,1,0,"25    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,73,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,SEA,WA,2359,23,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,8.1,-9999,0,0,70,0,0,0,0,"25    Overcast
+Name: Conds_Description, dtype: object",8,29.96,0,3.5,-9999,0,0,69.1,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,SAV,GA,2015,15,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",3,29.8,0,17.3,39.1,0,0,72,1,0,1,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,6.9,-9999,0,0,81,0,0,0,0
+2017,9,5,2,9/5/2017,UA,BWI,MD,IAH,TX,2015,41,,"26    Light Rain
+Name: Conds_Description, dtype: object",8,29.82,0,3.5,-9999,0,0,68,0,0,1,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,4.6,-9999,0,0,81,0,0,0,0
+2017,9,5,2,9/5/2017,UA,PHL,PA,ORD,IL,2006,70,,"22    Light Rain
+Name: Conds_Description, dtype: object",7,29.82,0,8.1,-9999,0,0,73.9,0,0,1,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,60.1,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,LAX,CA,2342,4,,"25    Overcast
+Name: Conds_Description, dtype: object",10,29.83,0,5.8,-9999,0,0,70,0,0,0,0,"28    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,5.8,-9999,0,0,73,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,MIA,FL,2312,4,,"25    Overcast
+Name: Conds_Description, dtype: object",10,29.83,0,5.8,-9999,0,0,70,0,0,0,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,10.4,-9999,0,0,84,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,LAS,NV,2127,305,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,71.1,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,13.8,20.7,0,0,91.9,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,TPA,FL,16,14,,"0    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,9.2,-9999,0,0,69.1,0,0,0,0,"0    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.03,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,CLE,OH,1731,17,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.71,0,16.1,21.9,0,0,86,0,0,0,0,"32    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.8,0,15,-9999,0,0,72,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,SAN,CA,2131,251,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,71.1,0,0,0,0,"24    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,6.9,-9999,0,0,73,0,0,0,0
+2017,9,5,2,9/5/2017,UA,CLT,NC,EWR,NJ,1958,278,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,11.5,19.6,0,0,75,0,0,0,0,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",3,29.8,0,17.3,39.1,0,0,72,1,0,1,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,AUS,TX,2206,32,,"24    Overcast
+Name: Conds_Description, dtype: object",10,29.84,0,9.2,-9999,0,0,71.1,0,0,0,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,0,-9999,0,0,78.1,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,RSW,FL,2044,11,,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,8.1,-9999,0,0,72,0,0,0,0,"28    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,3.5,-9999,0,0,78.1,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,CLE,OH,1933,56,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.75,0,12.7,-9999,0,0,82.9,0,0,0,0,"34    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.81,0,6.9,-9999,0,0,71.1,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,DFW,TX,2150,20,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,71.1,0,0,0,0,"20    Clear
+Name: Conds_Description, dtype: object",10,30,0,17.3,-9999,0,0,78.1,0,0,0,0
+2017,9,5,2,9/5/2017,UA,IAD,VA,ORD,IL,1856,14,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.82,0,5.8,-9999,0,0,66.9,1,0,1,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,10.4,-9999,0,0,61,0,0,0,0
+2017,9,5,2,9/5/2017,UA,EWR,NJ,SMF,CA,2100,52,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,71.1,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,11.5,-9999,0,0,81,0,0,0,0
+2017,9,4,1,9/4/2017,UA,ORD,IL,DCA,VA,2116,7,,"23    Overcast
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,66.9,0,0,0,0,"20    Clear
+Name: Conds_Description, dtype: object",10,29.88,0,10.4,-9999,0,0,75.9,0,0,0,0
+2017,9,4,1,9/4/2017,UA,ORD,IL,ALB,NY,2020,150,,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.76,0,11.5,-9999,0,0,71.1,0,0,0,0,"22    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.76,0,10.4,18.4,0,0,73.9,0,0,0,0
+2017,9,3,7,9/3/2017,UA,MCO,FL,EWR,NJ,1545,1,,"15    Heavy Rain
+Name: Conds_Description, dtype: object",1.5,30.07,0,11.5,-9999,0,0,78.1,0,0,1,0,"25    Overcast
+Name: Conds_Description, dtype: object",10,29.85,0,10.4,-9999,0,0,71.1,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,EWR,NJ,1350,40,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"16    Overcast
+Name: Conds_Description, dtype: object",10,30.11,0,6.9,-9999,0,0,73,0,0,0,0
+2017,9,18,1,9/18/2017,UA,SEA,WA,DEN,CO,1635,1,,"19    Light Rain
+Name: Conds_Description, dtype: object",10,29.78,0,9.2,-9999,0,0,55.9,0,0,1,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,8.1,-9999,0,0,82,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,DCA,VA,1343,46,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"20    Overcast
+Name: Conds_Description, dtype: object",10,30.09,0,9.2,-9999,0,0,75.9,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,SAT,TX,1401,20,,"23    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.98,0,0,-9999,0,0,86,1,0,0,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,8.1,-9999,0,0,90,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,LAX,CA,1339,24,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",9,29.95,0,13.8,-9999,0,0,71.1,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,LAX,CA,1549,13,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,15,-9999,0,0,72,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,MSY,LA,1505,15,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.99,0,9.2,-9999,0,0,91,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,DEN,CO,2151,9,,"36    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,0,-9999,0,0,73.9,0,0,0,0,"20    Clear
+Name: Conds_Description, dtype: object",10,29.87,0,16.1,-9999,0,0,66,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,FLL,FL,1355,40,,"23    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.98,0,0,-9999,0,0,86,1,0,0,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.9,0,6.9,-9999,0,0,88,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,LGA,NY,1400,50,,"23    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.98,0,0,-9999,0,0,86,1,0,0,0,"26    Overcast
+Name: Conds_Description, dtype: object",10,30.1,0,13.8,-9999,0,0,71.1,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,ORD,IL,1527,37,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.05,0,6.9,-9999,0,0,75,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,LGA,NY,1533,23,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"27    Overcast
+Name: Conds_Description, dtype: object",10,30.1,0,12.7,-9999,0,0,72,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,BWI,MD,1338,33,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"21    Overcast
+Name: Conds_Description, dtype: object",10,30.08,0,4.6,-9999,0,0,72,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,LAX,CA,1519,37,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,15,-9999,0,0,72,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,SFO,CA,1525,35,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,13.8,-9999,0,0,70,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,SAN,CA,1519,29,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,12.7,21.9,0,0,75,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,BNA,TN,2135,5,,"36    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,0,-9999,0,0,73.9,0,0,0,0,"23    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,8.1,-9999,0,0,75,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,MEM,TN,1557,15,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.94,0,6.9,-9999,0,0,82,1,0,0,0,"17    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",9,29.98,0,10.4,-9999,0,0,75,1,0,1,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,LGA,NY,1608,5,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.94,0,6.9,-9999,0,0,82,1,0,0,0,"28    Overcast
+Name: Conds_Description, dtype: object",10,30.09,0,12.7,-9999,0,0,72,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,SEA,WA,1333,33,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.79,0,17.3,-9999,0,0,57.9,0,0,0,0
+2017,9,18,1,9/18/2017,UA,IAH,TX,MIA,FL,1340,20,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.94,0,0,-9999,0,0,88,0,0,0,0
+2017,9,17,7,9/17/2017,UA,BOS,MA,DEN,CO,2127,9,,"44    Fog
+Name: Conds_Description, dtype: object",0.2,30.15,0,3.5,-9999,1,0,63,0,0,0,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,9.2,-9999,0,0,55,0,0,0,0
+2017,9,17,7,9/17/2017,UA,BOS,MA,EWR,NJ,2208,1,,"47    Overcast
+Name: Conds_Description, dtype: object",8,30.16,0,0,-9999,0,0,64,0,0,0,0,"26    Overcast
+Name: Conds_Description, dtype: object",10,30.13,0,4.6,-9999,0,0,70,0,0,0,0
+2017,9,17,7,9/17/2017,UA,BOS,MA,ORD,IL,2131,4,,"44    Fog
+Name: Conds_Description, dtype: object",0.2,30.15,0,3.5,-9999,1,0,63,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.09,0,8.1,-9999,0,0,71.1,0,0,0,0
+2017,9,15,5,9/15/2017,UA,SFO,CA,PHX,AZ,1225,32,,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,9.2,-9999,0,0,69.1,0,0,0,0,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.74,0,9.2,-9999,0,0,90,0,0,0,0
+2017,9,14,4,9/14/2017,UA,BOS,MA,IAD,VA,2022,38,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,4.6,-9999,0,0,73.9,0,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,3.5,-9999,0,0,73,0,0,0,0
+2017,9,14,4,9/14/2017,UA,BOS,MA,ORD,IL,1910,45,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.89,0,8.1,-9999,0,0,73,1,0,1,0,"31    Clear
+Name: Conds_Description, dtype: object",10,29.88,0,9.2,-9999,0,0,75.9,0,0,0,0
+2017,9,14,4,9/14/2017,UA,BOS,MA,DEN,CO,1909,44,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.89,0,8.1,-9999,0,0,73,1,0,1,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.65,0,9.2,-9999,0,0,75,0,0,0,0
+2017,9,1,5,9/1/2017,UA,CLT,NC,EWR,NJ,1550,19,,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,82.9,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.11,0,12.7,23,0,0,72,0,0,0,0
+2017,9,1,5,9/1/2017,UA,CLE,OH,ORD,IL,751,13,,"7    Overcast
+Name: Conds_Description, dtype: object",10,30.21,0,11.5,-9999,0,0,57,0,0,0,0,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.2,0,16.1,-9999,0,0,59,0,0,0,0
+2017,9,1,5,9/1/2017,UA,RDU,NC,SFO,CA,2025,2,,"30    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,30.03,0,11.5,-9999,0,0,66,1,0,1,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",7,29.76,0,16.1,-9999,0,0,89.1,0,0,0,0
+2017,9,1,5,9/1/2017,VX,SFO,CA,EWR,NJ,828,10,,"7    Partly Cloudy
+Name: Conds_Description, dtype: object",8,29.82,0,0,-9999,0,0,71.1,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.13,0,11.5,-9999,0,0,57,0,0,0,0
+2017,9,1,5,9/1/2017,VX,SFO,CA,IAD,VA,952,18,,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",8,29.82,0,3.5,-9999,0,0,73,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",10,30.18,0,12.7,-9999,0,0,61,0,0,0,0
+2017,9,1,5,9/1/2017,VX,SFO,CA,LAS,NV,1038,93,,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",8,29.83,0,3.5,-9999,0,0,73.9,0,0,0,0,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,93.9,0,0,0,0
+2017,9,1,5,9/1/2017,VX,SFO,CA,SAN,CA,1225,19,,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",8,29.82,0,3.5,-9999,0,0,80.1,0,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.78,0,9.2,-9999,0,0,87.1,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,OGG,HI,1925,42,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,IAD,VA,2257,27,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Overcast
+Name: Conds_Description, dtype: object",10,30.16,0,0,-9999,0,0,60.1,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,EWR,NJ,2248,58,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.9,0,3.5,-9999,0,0,69.1,0,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,4.6,-9999,0,0,71.1,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,ORD,IL,922,146,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,9.2,-9999,0,0,72,0,0,0,0,"8    Clear
+Name: Conds_Description, dtype: object",10,30.3,0,0,-9999,0,0,60.1,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,BOS,MA,2212,42,,"24    Thunderstorm
+Name: Conds_Description, dtype: object",9,29.88,0,5.8,-9999,0,0,68,1,0,0,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,8.1,-9999,0,0,70,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,PSP,CA,1955,33,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"21    Clear
+Name: Conds_Description, dtype: object",10,29.79,0,12.7,-9999,0,0,99,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,DAL,TX,1910,49,,"19    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",8,29.87,0,19.6,-9999,0,0,68,1,0,1,0,"18    Clear
+Name: Conds_Description, dtype: object",10,29.96,0,10.4,-9999,0,0,84,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,LAS,NV,2030,19,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,68,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.82,0,3.5,-9999,0,0,96.1,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,LAX,CA,1926,31,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,10.4,-9999,0,0,71.1,0,0,0,0
+2017,9,11,1,9/11/2017,VX,SFO,CA,SAN,CA,2057,9,,"22    Light Rain
+Name: Conds_Description, dtype: object",9,29.88,0,6.9,-9999,0,0,66.9,0,0,1,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,4.6,-9999,0,0,73.9,0,0,0,0
+2017,9,12,2,9/12/2017,VX,SFO,CA,JFK,NY,1544,23,,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,6.9,-9999,0,0,80.1,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,10.4,-9999,0,0,75.9,0,0,0,0
+2017,9,14,4,9/14/2017,VX,SFO,CA,DCA,VA,802,11,,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,11.5,-9999,0,0,61,0,0,0,0,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,4.6,-9999,0,0,71.1,0,0,0,0
+2017,9,14,4,9/14/2017,VX,EWR,NJ,SFO,CA,1146,4,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,4.6,-9999,0,0,75.9,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,13.8,-9999,0,0,64.9,0,0,0,0
+2017,9,14,4,9/14/2017,VX,DAL,TX,SFO,CA,1018,137,,"9    Clear
+Name: Conds_Description, dtype: object",9,29.86,0,9.2,-9999,0,0,77,0,0,0,0,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,18.4,25.3,0,0,64.9,0,0,0,0
+2017,9,14,4,9/14/2017,VX,SFO,CA,LAS,NV,1310,5,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,17.3,-9999,0,0,68,0,0,0,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.65,0,5.8,-9999,0,0,86,0,0,0,0
+2017,9,14,4,9/14/2017,VX,SAN,CA,SFO,CA,1429,19,,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.92,0,12.7,-9999,0,0,75.9,0,0,0,0,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,19.6,27.6,0,0,70,0,0,0,0
+2017,9,15,5,9/15/2017,VX,AUS,TX,SFO,CA,740,10,,"15    Patches of Fog
+Name: Conds_Description, dtype: object",1.5,29.91,0,0,-9999,1,0,69.1,0,0,0,0,"6    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,15,-9999,0,0,57.9,0,0,0,0
+2017,9,15,5,9/15/2017,VX,SFO,CA,PDX,OR,1014,16,,conds,0,0,0,0,0,0,0,0,0,0,0,0,conds,0,0,0,0,0,0,0,0,0,0,0,0
+2017,9,21,4,9/21/2017,VX,SFO,CA,PSP,CA,1514,4,,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,27.6,35.7,0,0,64.9,0,0,0,0,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.69,0,16.1,24.2,0,0,86,0,0,0,0
+2017,9,21,4,9/21/2017,VX,LAX,CA,SFO,CA,1013,7,,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",7,29.87,0,12.7,-9999,0,0,66.9,0,0,0,0,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,21.9,27.6,0,0,63,0,0,0,0
+2017,9,21,4,9/21/2017,VX,SFO,CA,SAN,CA,1234,4,,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,18.4,-9999,0,0,64.9,0,0,0,0,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.92,0,6.9,-9999,0,0,68,0,0,0,0
+2017,9,21,4,9/21/2017,VX,SAN,CA,SFO,CA,1445,2,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,13.8,-9999,0,0,72,0,0,0,0,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,21.9,28.8,0,0,66,0,0,0,0
+2017,9,22,5,9/22/2017,VX,LAX,CA,SFO,CA,1220,2,,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,11.5,-9999,0,0,71.1,0,0,0,0,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,66,0,0,0,0
+2017,9,28,4,9/28/2017,VX,BOS,MA,LAX,CA,1128,17,,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.7,0,16.1,26.5,0,0,75,0,0,0,0,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,9.2,-9999,0,0,73.9,0,0,0,0
+2017,9,29,5,9/29/2017,VX,SFO,CA,LAX,CA,837,4,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,10.4,-9999,0,0,60.1,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,4.6,-9999,0,0,66.2,0,0,0,0
+2017,9,3,7,9/3/2017,VX,SFO,CA,EWR,NJ,847,25,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.88,0,4.6,-9999,0,0,73.9,0,0,0,0,"12    Heavy Rain
+Name: Conds_Description, dtype: object",1.5,29.93,0,4.6,-9999,0,0,62.1,0,0,1,0
+2017,9,3,7,9/3/2017,VX,LAS,NV,SFO,CA,1332,29,,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,5.8,-9999,0,0,99,0,0,0,0,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.91,0,12.7,-9999,0,0,84,0,0,0,0
+2017,9,30,6,9/30/2017,VX,SFO,CA,DEN,CO,754,7,,"7    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,15,-9999,0,0,57.9,0,0,0,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",6,30,0,4.6,-9999,0,0,46.9,0,0,0,0
+2017,9,6,3,9/6/2017,VX,SAN,CA,SFO,CA,1239,7,,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,12.7,-9999,0,0,79,0,0,0,0,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.99,0,10.4,-9999,0,0,71.1,0,0,0,0
+2017,9,6,3,9/6/2017,VX,LAX,CA,ORD,IL,1036,11,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.97,0,10.4,-9999,0,0,72,0,0,0,0,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,11.5,-9999,0,0,59,0,0,0,0
+2017,9,6,3,9/6/2017,VX,SFO,CA,SAN,CA,1029,45,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.99,0,8.1,-9999,0,0,68,0,0,0,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.99,0,9.2,-9999,0,0,75.9,0,0,0,0
+2017,9,6,3,9/6/2017,VX,SFO,CA,LAS,NV,1148,2,,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.99,0,9.2,-9999,0,0,70,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,3.5,-9999,0,0,90,0,0,0,0
+2017,9,6,3,9/6/2017,VX,SFO,CA,LAS,NV,1435,5,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,4.6,-9999,0,0,73,0,0,0,0,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,3.5,-9999,0,0,97,0,0,0,0
+2017,9,6,3,9/6/2017,VX,SFO,CA,SAN,CA,1254,5,,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.99,0,10.4,-9999,0,0,71.1,0,0,0,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,16.1,-9999,0,0,79,0,0,0,0
+2017,9,9,6,9/9/2017,VX,SFO,CA,PSP,CA,1437,45,,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,18.4,-9999,0,0,73,0,0,0,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,10.4,-9999,0,0,91.9,0,0,0,0
+2017,9,5,2,9/5/2017,F9,TTN,NJ,ORD,IL,1753,11,,"17    Clear
+Name: Conds_Description, dtype: object",10,29.73,0,13.8,-9999,0,0,82.9,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,17.3,-9999,0,0,63,0,0,0,0
+2017,9,18,1,9/18/2017,F9,IAH,TX,DEN,CO,2036,31,,"35    Light Rain
+Name: Conds_Description, dtype: object",10,29.97,0,0,-9999,0,0,75.9,0,0,1,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,13.8,-9999,0,0,66.9,0,0,0,0
+2017,9,30,6,9/30/2017,F9,DEN,CO,DFW,TX,810,5,,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",6,30,0,4.6,-9999,0,0,46.9,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.14,0,8.1,-9999,0,0,64.9,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,DFW,TX,1416,16,,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,6.9,-9999,0,0,91.9,0,0,0,0,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.12,0,6.9,-9999,0,0,82.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,DFW,TX,1545,105,,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,12.7,21.9,0,0,93.9,0,0,0,0,"14    Clear
+Name: Conds_Description, dtype: object",10,30.1,0,10.4,-9999,0,0,84.9,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,DFW,TX,1432,32,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.89,0,0,-9999,0,0,77,1,0,1,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,19.6,0,0,90,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,DFW,TX,1845,18,,"22    Light Rain
+Name: Conds_Description, dtype: object",10,29.88,0,6.9,-9999,0,0,71.1,0,0,1,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.73,0,4.6,-9999,0,0,90,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,SEA,WA,1832,63,,"22    Light Rain
+Name: Conds_Description, dtype: object",10,29.88,0,6.9,-9999,0,0,71.1,0,0,1,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.94,0,9.2,-9999,0,0,68,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,DFW,TX,1044,84,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,12.7,21.9,0,0,89.1,0,0,0,0,"9    Clear
+Name: Conds_Description, dtype: object",10,30.16,0,9.2,-9999,0,0,73.9,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,JFK,NY,1420,45,,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,6.9,-9999,0,0,91.9,0,0,0,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,16.1,-9999,0,0,70,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,JFK,NY,1525,110,,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,0,-9999,0,0,78.1,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,17.3,26.5,0,0,82.9,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,LAX,CA,1841,15,,"22    Light Rain
+Name: Conds_Description, dtype: object",10,29.88,0,6.9,-9999,0,0,71.1,0,0,1,0,"24    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,16.1,-9999,0,0,69.1,0,0,0,0
+2017,9,14,4,9/14/2017,AA,BOS,MA,JFK,NY,2025,169,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,4.6,-9999,0,0,73.9,0,0,0,0,"27    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,10.4,-9999,0,0,73,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,LGA,NY,1607,5,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,13.8,24.2,0,0,91.9,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,17.3,21.9,0,0,73,0,0,0,0
+2017,9,21,4,9/21/2017,AA,MIA,FL,LGA,NY,1439,32,,"21    Heavy Rain
+Name: Conds_Description, dtype: object",1.5,29.95,0,5.8,-9999,0,0,75,1,0,1,0,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,11.5,-9999,0,0,79,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,LGA,NY,1440,50,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.89,0,0,-9999,0,0,77,1,0,1,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,16.1,-9999,0,0,79,0,0,0,0
+2017,9,29,5,9/29/2017,AA,MIA,FL,LGA,NY,1438,30,,"23    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.93,0,9.2,-9999,0,0,77,1,0,1,0,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,6.9,-9999,0,0,66.9,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,CLT,NC,1724,24,,"20    Rain
+Name: Conds_Description, dtype: object",7,29.87,0,6.9,-9999,0,0,71.1,1,0,1,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,12.7,-9999,0,0,81,0,0,0,0
+2017,9,5,2,9/5/2017,AA,DCA,VA,JFK,NY,1745,25,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.76,0,16.1,-9999,0,0,86,0,0,0,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.74,0,24.2,28.8,0,0,78.1,0,0,0,0
+2017,9,6,3,9/6/2017,AA,DCA,VA,JFK,NY,1839,77,,"39    Light Rain
+Name: Conds_Description, dtype: object",10,29.91,0,9.2,-9999,0,0,64,0,0,1,0,"28    Overcast
+Name: Conds_Description, dtype: object",10,29.9,0,18.4,21.9,0,0,64.9,0,0,0,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,JFK,NY,852,921,,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.16,0,0,-9999,0,0,73,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,30.19,0,0,-9999,0,0,70,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,SFO,CA,949,36,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,19.6,0,0,88,0,0,0,0,"8    Overcast
+Name: Conds_Description, dtype: object",9,29.92,0,8.1,-9999,0,0,62.1,0,0,0,0
+2017,9,11,1,9/11/2017,AA,EGE,CO,DFW,TX,940,78,,"8    Clear
+Name: Conds_Description, dtype: object",10,30.36,0,0,-9999,0,0,57,0,0,0,0,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.12,0,4.6,-9999,0,0,70,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,DFW,TX,1806,22,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,89.1,0,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.05,0,6.9,-9999,0,0,84.9,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,LAS,NV,1730,1,,"21    Light Rain
+Name: Conds_Description, dtype: object",10,29.87,0,6.9,-9999,0,0,71.1,0,0,1,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.62,0,8.1,-9999,0,0,97,0,0,0,0
+2017,9,1,5,9/1/2017,AA,MIA,FL,ORD,IL,2137,7,,"21    Thunderstorm
+Name: Conds_Description, dtype: object",10,30.02,0,4.6,-9999,0,0,87.1,1,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.12,0,5.8,-9999,0,0,63,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,ORD,IL,1106,816,,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.97,0,4.6,-9999,0,0,90,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,13.8,-9999,0,0,64,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,MIA,FL,1739,39,,"21    Light Rain
+Name: Conds_Description, dtype: object",10,29.87,0,6.9,-9999,0,0,71.1,0,0,1,0,"21    Overcast
+Name: Conds_Description, dtype: object",10,29.92,0,10.4,19.6,0,0,87.1,0,0,0,0
+2017,9,19,2,9/19/2017,AA,MCI,MO,ORD,IL,642,24,,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,9.2,-9999,0,0,68,0,0,0,0,"7    Overcast
+Name: Conds_Description, dtype: object",10,29.94,0,5.8,-9999,0,0,66,0,0,0,0
+2017,9,26,2,9/26/2017,AA,MIA,FL,DFW,TX,743,17,,"9    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.92,0,5.8,-9999,0,0,77,1,0,1,0,"6    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,3.5,-9999,0,0,77,0,0,0,0
+2017,9,6,3,9/6/2017,AA,MCO,FL,JFK,NY,1428,52,,"19    Light Rain
+Name: Conds_Description, dtype: object",5,29.95,0,0,-9999,0,0,75.9,0,0,1,0,"20    Overcast
+Name: Conds_Description, dtype: object",10,29.88,0,10.4,-9999,0,0,68,0,0,0,0
+2017,9,14,4,9/14/2017,AA,BOS,MA,LAX,CA,2000,76,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.92,0,16.1,24.2,0,0,73,1,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,11.5,-9999,0,0,66.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,LGA,NY,1446,141,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,15,20.7,0,0,93,0,0,0,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.09,0,15,-9999,0,0,71.1,0,0,0,0
+2017,9,20,3,9/20/2017,AA,PDX,OR,ORD,IL,1500,23,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.77,0,5.8,-9999,0,0,51.1,1,0,1,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,17.3,-9999,0,0,91,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,ORD,IL,903,27,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,19.6,0,0,88,0,0,0,0,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.18,0,6.9,-9999,0,0,63,0,0,0,0
+2017,9,7,4,9/7/2017,AA,ORD,IL,MIA,FL,1734,39,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,11.5,-9999,0,0,68,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,13.8,-9999,0,0,91,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,ORD,IL,1652,19,,"28    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,16.1,-9999,0,0,84,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,15,19.6,0,0,66.9,0,0,0,0
+2017,9,1,5,9/1/2017,AA,MIA,FL,JFK,NY,2352,108,,"27    Overcast
+Name: Conds_Description, dtype: object",10,30.06,0,0,-9999,0,0,81,0,0,0,0,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.19,0,8.1,-9999,0,0,63,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,JFK,NY,1448,1023,,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,6.9,-9999,0,0,91.9,0,0,0,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,16.1,-9999,0,0,70,0,0,0,0
+2017,9,18,1,9/18/2017,AA,IAH,TX,PHX,AZ,1501,6,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"14    Clear
+Name: Conds_Description, dtype: object",10,29.78,0,12.7,19.6,0,0,98.1,0,0,0,0
+2017,9,22,5,9/22/2017,AA,FLL,FL,ORD,IL,1711,8,,"28    Rain
+Name: Conds_Description, dtype: object",5,29.85,0,15,-9999,0,0,80.1,0,0,1,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.99,0,9.2,-9999,0,0,93,0,0,0,0
+2017,9,19,2,9/19/2017,AA,BNA,TN,DFW,TX,1617,47,,"23    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,29.95,0,0,-9999,0,0,69.1,1,0,1,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.75,0,17.3,-9999,0,0,97,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,JFK,NY,2212,40,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,-9999,0,0,87.1,0,0,0,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,13.8,-9999,0,0,68,0,0,0,0
+2017,9,1,5,9/1/2017,AA,TPA,FL,ORD,IL,1745,41,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,30,0,5.8,-9999,0,0,80.1,1,0,1,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,15,19.6,0,0,66.9,0,0,0,0
+2017,9,14,4,9/14/2017,AA,TPA,FL,ORD,IL,1800,37,,"20    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.96,0,3.5,-9999,0,0,78.1,1,0,1,0,"30    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,5.8,-9999,0,0,80.1,0,0,0,0
+2017,9,15,5,9/15/2017,AA,TPA,FL,ORD,IL,1828,19,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,-9999,0,0,86,1,0,0,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,12.7,-9999,0,0,84.9,0,0,0,0
+2017,9,6,3,9/6/2017,AA,FLL,FL,DFW,TX,1522,12,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,15,-9999,0,0,88,1,0,0,0,"14    Clear
+Name: Conds_Description, dtype: object",10,30.09,0,17.3,-9999,0,0,84,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,BOS,MA,1535,40,,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,82.9,0,0,0,0,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,17.3,26.5,0,0,66.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,DFW,TX,1048,303,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,12.7,21.9,0,0,89.1,0,0,0,0,"9    Clear
+Name: Conds_Description, dtype: object",10,30.16,0,9.2,-9999,0,0,73.9,0,0,0,0
+2017,9,26,2,9/26/2017,AA,MIA,FL,DFW,TX,702,31,,"8    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.92,0,0,-9999,0,0,77,1,0,1,0,"6    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,3.5,-9999,0,0,77,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,BOS,MA,1453,26,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,93,0,0,0,0,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,16.1,-9999,0,0,73.9,0,0,0,0
+2017,9,21,4,9/21/2017,AA,MIA,FL,BOS,MA,1445,42,,"22    Rain
+Name: Conds_Description, dtype: object",6,29.94,0,3.5,-9999,0,0,75.9,1,0,1,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,26.5,35.7,0,0,69.1,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,BOS,MA,1450,50,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.89,0,0,-9999,0,0,77,1,0,1,0,"18    Light Rain
+Name: Conds_Description, dtype: object",4,30.01,0,24.2,35.7,0,0,59,0,0,1,0
+2017,9,29,5,9/29/2017,AA,MIA,FL,BOS,MA,1538,83,,"25    Light Rain
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,80.1,0,0,1,0,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,9.2,-9999,0,0,66.9,0,0,0,0
+2017,9,25,1,9/25/2017,AA,ORD,IL,MSP,MN,1757,52,,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,15,-9999,0,0,87.1,0,0,0,0,"42    Overcast
+Name: Conds_Description, dtype: object",10,29.99,0,9.2,-9999,0,0,61,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,ORD,IL,2203,148,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,-9999,0,0,87.1,0,0,0,0,"21    Overcast
+Name: Conds_Description, dtype: object",10,30.05,0,3.5,-9999,0,0,63,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,CLT,NC,1546,14,,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.73,0,15,-9999,0,0,84,0,0,0,0,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,11.5,-9999,0,0,86,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,ORD,IL,2003,72,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,88,0,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,5.8,-9999,0,0,64.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,DFW,TX,BNA,TN,915,15,,"8    Clear
+Name: Conds_Description, dtype: object",10,30.15,0,5.8,-9999,0,0,69.1,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",5,30.27,0,0,-9999,0,0,59,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,DEN,CO,2146,30,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,12.7,-9999,0,0,87.1,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,5.8,-9999,0,0,69.1,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,DEN,CO,806,43,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,4.6,-9999,0,0,84.9,0,0,0,0,"7    Clear
+Name: Conds_Description, dtype: object",7,29.98,0,8.1,-9999,0,0,59,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,DFW,TX,2115,247,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,12.7,-9999,0,0,87.1,0,0,0,0,"19    Clear
+Name: Conds_Description, dtype: object",10,30.06,0,8.1,-9999,0,0,75,0,0,0,0
+2017,9,2,6,9/2/2017,AA,MIA,FL,ORD,IL,1050,15,,"17    Light Rain
+Name: Conds_Description, dtype: object",10,30.09,0,0,-9999,0,0,75,0,0,1,0,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.08,0,3.5,-9999,0,0,64.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,ORD,IL,1138,92,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,12.7,-9999,0,0,89.1,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.2,0,11.5,-9999,0,0,68,0,0,0,0
+2017,9,1,5,9/1/2017,AA,MIA,FL,DFW,TX,27,148,,"1    Overcast
+Name: Conds_Description, dtype: object",10,30.03,0,6.9,-9999,0,0,84.9,0,0,0,0,"1    Clear
+Name: Conds_Description, dtype: object",10,29.96,0,6.9,-9999,0,0,73.9,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,DFW,TX,2045,80,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,88,0,0,0,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,6.9,-9999,0,0,75,0,0,0,0
+2017,9,1,5,9/1/2017,AA,TPA,FL,DFW,TX,1840,75,,"27    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30,0,9.2,-9999,0,0,78.1,1,0,1,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,3.5,-9999,0,0,90,0,0,0,0
+2017,9,14,4,9/14/2017,AA,TPA,FL,DFW,TX,1816,27,,"20    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.96,0,3.5,-9999,0,0,78.1,1,0,1,0,"17    Clear
+Name: Conds_Description, dtype: object",10,29.73,0,13.8,-9999,0,0,96.1,0,0,0,0
+2017,9,15,5,9/15/2017,AA,TPA,FL,DFW,TX,1838,13,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,-9999,0,0,86,1,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.8,0,13.8,-9999,0,0,93,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MCO,FL,DFW,TX,1320,71,,"15    Light Rain
+Name: Conds_Description, dtype: object",10,30,0,9.2,-9999,0,0,79,0,0,1,0,"12    Clear
+Name: Conds_Description, dtype: object",10,30.14,0,16.1,20.7,0,0,82,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,JFK,NY,936,130,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,19.6,0,0,88,0,0,0,0,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.11,0,13.8,-9999,0,0,66,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,SFO,CA,2123,108,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,12.7,-9999,0,0,87.1,0,0,0,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,66,0,0,0,0
+2017,9,2,6,9/2/2017,AA,MIA,FL,LGA,NY,1251,8,,"19    Overcast
+Name: Conds_Description, dtype: object",10,30.07,0,0,-9999,0,0,79,0,0,0,0,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.21,0,11.5,-9999,0,0,64.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,LGA,NY,959,10,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,12.7,21.9,0,0,89.1,0,0,0,0,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,11.5,-9999,0,0,66.9,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,LGA,NY,2030,148,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,88,0,0,0,0,"26    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,13.8,23,0,0,70,0,0,0,0
+2017,9,6,3,9/6/2017,AA,MCO,FL,DFW,TX,1446,61,,"19    Light Rain
+Name: Conds_Description, dtype: object",5,29.95,0,0,-9999,0,0,75.9,0,0,1,0,"13    Clear
+Name: Conds_Description, dtype: object",10,30.12,0,15,24.2,0,0,82.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,LAS,NV,ORD,IL,708,8,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,6.9,-9999,0,0,81,1,0,0,0,"6    Overcast
+Name: Conds_Description, dtype: object",10,30.16,0,3.5,-9999,0,0,59,0,0,0,0
+2017,9,24,7,9/24/2017,AA,LAX,CA,ORD,IL,2022,156,,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,70,0,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,8.1,-9999,0,0,80.1,0,0,0,0
+2017,9,4,1,9/4/2017,AA,ORD,IL,BWI,MD,2136,47,,"23    Overcast
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,66.9,0,0,0,0,"20    Clear
+Name: Conds_Description, dtype: object",10,29.86,0,5.8,-9999,0,0,72,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,DFW,TX,1234,19,,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,16.1,25.3,0,0,93,0,0,0,0,"11    Clear
+Name: Conds_Description, dtype: object",10,30.15,0,11.5,-9999,0,0,80.1,0,0,0,0
+2017,9,1,5,9/1/2017,AA,RDU,NC,ORD,IL,1852,50,,"27    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30,0,16.1,24.2,0,0,66,1,0,1,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.13,0,10.4,-9999,0,0,64.9,0,0,0,0
+2017,9,21,4,9/21/2017,AA,JAC,WY,ORD,IL,1346,5,,"38    Overcast
+Name: Conds_Description, dtype: object",10,29.84,0,0,-9999,0,0,37.9,0,0,0,0,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,4.6,-9999,0,0,91.9,0,0,0,0
+2017,9,21,4,9/21/2017,AA,ORD,IL,TUS,AZ,1847,21,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.94,0,9.2,-9999,0,0,90,0,0,0,0,"17    Clear
+Name: Conds_Description, dtype: object",10,29.64,0,10.4,18.4,0,0,91,0,0,0,0
+2017,9,18,1,9/18/2017,AA,IND,IN,DFW,TX,2100,78,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.99,0,6.9,-9999,0,0,71.1,1,0,0,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,8.1,-9999,0,0,82.9,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,ORD,IL,1958,43,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,9.2,-9999,0,0,79,0,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,60.1,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,EWR,NJ,2031,50,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,88,0,0,0,0,"27    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,9.2,-9999,0,0,68,0,0,0,0
+2017,9,1,5,9/1/2017,AA,BNA,TN,DFW,TX,1725,7,,"44    Light Rain
+Name: Conds_Description, dtype: object",1,29.82,0,15,23,0,0,62.1,0,0,1,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,0,-9999,0,0,89.1,0,0,0,0
+2017,9,19,2,9/19/2017,AA,BNA,TN,DFW,TX,1725,6,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,6.9,-9999,0,0,73,0,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.72,0,15,-9999,0,0,97,0,0,0,0
+2017,9,1,5,9/1/2017,AA,MIA,FL,LGA,NY,2119,9,,"21    Thunderstorm
+Name: Conds_Description, dtype: object",10,30.02,0,4.6,-9999,0,0,87.1,1,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,11.5,-9999,0,0,68,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,LGA,NY,2145,75,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,12.7,-9999,0,0,87.1,0,0,0,0,"27    Clear
+Name: Conds_Description, dtype: object",10,29.96,0,13.8,-9999,0,0,69.1,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,ORD,IL,2210,235,,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.83,0,0,-9999,0,0,73.9,0,0,0,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.95,0,8.1,-9999,0,0,57,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LAS,NV,PHL,PA,2349,29,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,13.8,18.4,0,0,86,0,0,0,0,"29    Overcast
+Name: Conds_Description, dtype: object",7,29.83,0,0,-9999,0,0,69.1,0,0,0,0
+2017,9,11,1,9/11/2017,AA,SFO,CA,PHL,PA,2258,18,,"26    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.89,0,3.5,-9999,0,0,69.1,0,0,0,0,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.16,0,0,-9999,0,0,66.9,0,0,0,0
+2017,9,5,2,9/5/2017,AA,PHL,PA,DFW,TX,1710,24,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.73,0,19.6,24.2,0,0,86,0,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,19.6,27.6,0,0,88,0,0,0,0
+2017,9,16,6,9/16/2017,AA,PHL,PA,DFW,TX,2156,29,,"28    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.13,0,0,-9999,0,0,72,0,0,0,0,"24    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,86,0,0,0,0
+2017,9,5,2,9/5/2017,AA,SAN,CA,PHL,PA,1111,11,,"11    Overcast
+Name: Conds_Description, dtype: object",8,30.01,0,6.9,-9999,0,0,75,0,0,0,0,"11    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.83,0,12.7,-9999,0,0,79,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,SFO,CA,1533,35,,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,82.9,0,0,0,0,"14    Clear
+Name: Conds_Description, dtype: object",8,29.77,0,3.5,-9999,0,0,97,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MCO,FL,PHL,PA,1744,24,,"21    Light Rain
+Name: Conds_Description, dtype: object",7,29.89,0,8.1,-9999,0,0,75,0,0,1,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,11.5,-9999,0,0,82,0,0,0,0
+2017,9,6,3,9/6/2017,AA,LGA,NY,ATL,GA,1512,1,,"20    Overcast
+Name: Conds_Description, dtype: object",10,29.88,0,8.1,-9999,0,0,63,0,0,0,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.95,0,5.8,-9999,0,0,71.1,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,ATL,GA,2203,8,,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.83,0,0,-9999,0,0,73.9,0,0,0,0,"27    Light Rain
+Name: Conds_Description, dtype: object",9,29.94,0,5.8,-9999,0,0,70,0,0,1,0
+2017,9,1,5,9/1/2017,AA,TPA,FL,PHL,PA,1822,36,,"26    Thunderstorm
+Name: Conds_Description, dtype: object",7,30,0,10.4,20.7,0,0,79,1,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.12,0,5.8,-9999,0,0,68,0,0,0,0
+2017,9,2,6,9/2/2017,AA,TPA,FL,PHL,PA,1719,3,,"22    Light Rain
+Name: Conds_Description, dtype: object",7,30.04,0,5.8,-9999,0,0,75.9,0,0,1,0,"25    Rain
+Name: Conds_Description, dtype: object",2.5,30.11,0,12.7,-9999,0,0,61,0,0,1,0
+2017,9,14,4,9/14/2017,AA,TPA,FL,PHL,PA,1815,50,,"20    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",6,29.96,0,3.5,-9999,0,0,78.1,1,0,1,0,"37    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,12.7,-9999,0,0,80.1,0,0,0,0
+2017,9,15,5,9/15/2017,AA,TPA,FL,PHL,PA,1715,1,,"20    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.95,0,6.9,-9999,0,0,91,1,0,0,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.03,0,9.2,-9999,0,0,84,0,0,0,0
+2017,9,24,7,9/24/2017,AA,TPA,FL,PHL,PA,1717,7,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,9.2,-9999,0,0,81,1,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,6.9,-9999,0,0,90,0,0,0,0
+2017,9,6,3,9/6/2017,AA,MCO,FL,PHL,PA,1431,55,,"19    Light Rain
+Name: Conds_Description, dtype: object",5,29.95,0,0,-9999,0,0,75.9,0,0,1,0,"29    Overcast
+Name: Conds_Description, dtype: object",10,29.9,0,10.4,-9999,0,0,64,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MCO,FL,PHL,PA,1351,45,,"15    Light Rain
+Name: Conds_Description, dtype: object",10,30,0,9.2,-9999,0,0,79,0,0,1,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.14,0,16.1,-9999,0,0,72,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,EWR,NJ,1536,45,,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,82.9,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.11,0,12.7,23,0,0,72,0,0,0,0
+2017,9,5,2,9/5/2017,AA,ATL,GA,PHL,PA,2201,234,,"27    Light Rain
+Name: Conds_Description, dtype: object",9,29.94,0,5.8,-9999,0,0,70,0,0,1,0,"28    Light Rain
+Name: Conds_Description, dtype: object",7,29.84,0,0,-9999,0,0,70,0,0,1,0
+2017,9,24,7,9/24/2017,AA,FLL,FL,PHL,PA,735,15,,"9    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.84,0,6.9,-9999,0,0,80.1,1,0,1,0,"6    Clear
+Name: Conds_Description, dtype: object",10,30.08,0,3.5,-9999,0,0,71.1,0,0,0,0
+2017,9,16,6,9/16/2017,AA,PHL,PA,CLT,NC,2011,26,,"25    Light Rain
+Name: Conds_Description, dtype: object",5,30.13,0,3.5,-9999,0,0,73,0,0,1,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.08,0,4.6,-9999,0,0,77,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,AUS,TX,1730,1,,"21    Light Rain
+Name: Conds_Description, dtype: object",10,29.87,0,6.9,-9999,0,0,71.1,0,0,1,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.73,0,6.9,-9999,0,0,91.9,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,BOS,MA,2147,28,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,12.7,-9999,0,0,87.1,0,0,0,0,"31    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,19.6,0,0,64,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,PHL,PA,1715,3,,"33    Overcast
+Name: Conds_Description, dtype: object",3,30.15,0,5.8,-9999,0,0,66,0,0,0,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.05,0,11.5,-9999,0,0,79,0,0,0,0
+2017,9,16,6,9/16/2017,AA,PHL,PA,BOS,MA,1930,28,,"21    Heavy Rain
+Name: Conds_Description, dtype: object",0.5,30.14,0,15,18.4,1,0,72,0,0,1,0,"40    Scattered Clouds
+Name: Conds_Description, dtype: object",3,30.15,0,3.5,-9999,0,0,63,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,BOS,MA,1531,160,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,93,0,0,0,0,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,16.1,20.7,0,0,75,0,0,0,0
+2017,9,6,3,9/6/2017,AA,MCO,FL,PHL,PA,1516,18,,"20    Overcast
+Name: Conds_Description, dtype: object",10,29.94,0,4.6,-9999,0,0,78.1,0,0,0,0,"30    Light Rain
+Name: Conds_Description, dtype: object",10,29.91,0,10.4,-9999,0,0,64,0,0,1,0
+2017,9,8,5,9/8/2017,AA,PHX,AZ,SFO,CA,941,3,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,9.2,-9999,0,0,88,0,0,0,0,"8    Overcast
+Name: Conds_Description, dtype: object",9,29.92,0,8.1,-9999,0,0,62.1,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,DFW,TX,1526,35,,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,82.9,0,0,0,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.98,0,0,-9999,0,0,89.1,0,0,0,0
+2017,9,11,1,9/11/2017,AA,SFO,CA,CLT,NC,2235,15,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.9,0,3.5,-9999,0,0,69.1,0,0,0,0,"23    Light Rain
+Name: Conds_Description, dtype: object",10,29.86,0,28.8,36.8,0,0,63,0,0,1,0
+2017,9,2,6,9/2/2017,AA,MIA,FL,DFW,TX,1139,20,,"18    Overcast
+Name: Conds_Description, dtype: object",10,30.08,0,0,-9999,0,0,75,0,0,0,0,"10    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.03,0,8.1,-9999,0,0,86,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,DFW,TX,1158,28,,"11    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.97,0,9.2,-9999,0,0,91,0,0,0,0,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,6.9,-9999,0,0,81,0,0,0,0
+2017,9,6,3,9/6/2017,AA,MCO,FL,ORD,IL,1452,57,,"19    Light Rain
+Name: Conds_Description, dtype: object",5,29.95,0,0,-9999,0,0,75.9,0,0,1,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,11.5,17.3,0,0,66.9,0,0,0,0
+2017,9,21,4,9/21/2017,AA,MIA,FL,EWR,NJ,1455,16,,"23    Light Rain
+Name: Conds_Description, dtype: object",6,29.94,0,3.5,-9999,0,0,75.9,0,0,1,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,12.7,-9999,0,0,81,0,0,0,0
+2017,9,6,3,9/6/2017,AA,MCO,FL,DFW,TX,1611,18,,"21    Light Rain
+Name: Conds_Description, dtype: object",8,29.92,0,4.6,-9999,0,0,78.1,0,0,1,0,"15    Clear
+Name: Conds_Description, dtype: object",10,30.07,0,11.5,21.9,0,0,84,0,0,0,0
+2017,9,6,3,9/6/2017,AA,MIA,FL,JFK,NY,1614,45,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,9.2,-9999,0,0,87.1,0,0,0,0,"23    Light Rain
+Name: Conds_Description, dtype: object",9,29.88,0,9.2,-9999,0,0,66.9,0,0,1,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,JFK,NY,1652,70,,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,11.5,-9999,0,0,93,0,0,0,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,18.4,21.9,0,0,71.1,0,0,0,0
+2017,9,2,6,9/2/2017,AA,MIA,FL,LGA,NY,1137,38,,"18    Overcast
+Name: Conds_Description, dtype: object",10,30.08,0,0,-9999,0,0,75,0,0,0,0,"10    Overcast
+Name: Conds_Description, dtype: object",10,30.25,0,9.2,-9999,0,0,63,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,LGA,NY,1141,46,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,12.7,-9999,0,0,89.1,0,0,0,0,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.09,0,12.7,20.7,0,0,68,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,IAH,TX,1116,154,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,12.7,-9999,0,0,89.1,0,0,0,0,"10    Clear
+Name: Conds_Description, dtype: object",10,30.15,0,10.4,-9999,0,0,78.1,0,0,0,0
+2017,9,21,4,9/21/2017,AA,MIA,FL,PHL,PA,1607,8,,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,10.4,-9999,0,0,87.1,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,3.5,-9999,0,0,87.1,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,PHL,PA,1514,7,,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,0,-9999,0,0,78.1,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,12.7,-9999,0,0,82,0,0,0,0
+2017,9,29,5,9/29/2017,AA,MIA,FL,PHL,PA,1500,30,,"25    Light Rain
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,80.1,0,0,1,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.03,0,11.5,16.1,0,0,69.1,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,PHL,PA,1515,25,,"25    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.92,0,11.5,-9999,0,0,82,1,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,8.1,-9999,0,0,69.1,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,LGA,NY,1507,52,,"25    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.92,0,11.5,-9999,0,0,82,1,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.1,0,10.4,-9999,0,0,71.1,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,IAH,TX,1515,21,,"25    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.92,0,11.5,-9999,0,0,82,1,0,0,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.98,0,9.2,-9999,0,0,88,0,0,0,0
+2017,9,1,5,9/1/2017,AA,PHL,PA,RDU,NC,1851,46,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.12,0,5.8,-9999,0,0,68,0,0,0,0,"27    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,30,0,16.1,24.2,0,0,66,1,0,1,0
+2017,9,8,5,9/8/2017,AA,LAS,NV,DFW,TX,714,14,,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,5.8,-9999,0,0,80.1,0,0,0,0,"6    Clear
+Name: Conds_Description, dtype: object",10,30.12,0,3.5,-9999,0,0,64,0,0,0,0
+2017,9,6,3,9/6/2017,AA,RDU,NC,PHL,PA,621,1,,"7    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,8.1,-9999,0,0,66.9,0,0,0,0,"11    Light Rain
+Name: Conds_Description, dtype: object",4,29.84,0,0,-9999,0,0,69.1,0,0,1,0
+2017,9,17,7,9/17/2017,AA,BOS,MA,DCA,VA,2016,9,,"42    Fog
+Name: Conds_Description, dtype: object",0.2,30.14,0,5.8,-9999,1,0,62.1,0,0,0,0,"26    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,0,-9999,0,0,77,0,0,0,0
+2017,9,5,2,9/5/2017,AA,DCA,VA,BOS,MA,2031,181,,"23    Light Rain
+Name: Conds_Description, dtype: object",9,29.83,0,0,-9999,0,0,70,0,0,1,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.78,0,21.9,27.6,0,0,73,0,0,0,0
+2017,9,15,5,9/15/2017,AA,BOS,MA,DCA,VA,1628,10,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,30.04,0,11.5,-9999,0,0,73,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.05,0,5.8,-9999,0,0,81,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,DCA,VA,1720,19,,"33    Overcast
+Name: Conds_Description, dtype: object",3,30.15,0,5.8,-9999,0,0,66,0,0,0,0,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,10.4,-9999,0,0,75.9,0,0,0,0
+2017,9,26,2,9/26/2017,AA,DFW,TX,ELP,TX,1906,21,,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.85,0,6.9,-9999,0,0,88,0,0,0,0,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.76,0,12.7,24.2,0,0,73,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,EWR,NJ,942,47,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,19.6,0,0,88,0,0,0,0,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,12.7,-9999,0,0,63,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,ORD,IL,1645,140,,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,11.5,-9999,0,0,93,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,16.1,24.2,0,0,71.1,0,0,0,0
+2017,9,21,4,9/21/2017,AA,MIA,FL,ORD,IL,1457,32,,"23    Light Rain
+Name: Conds_Description, dtype: object",6,29.94,0,3.5,-9999,0,0,75.9,0,0,1,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,8.1,-9999,0,0,93.9,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,ORD,IL,1523,58,,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,0,-9999,0,0,78.1,0,0,0,0,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,5.8,-9999,0,0,93.9,0,0,0,0
+2017,9,29,5,9/29/2017,AA,MIA,FL,ORD,IL,1505,40,,"25    Light Rain
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,80.1,0,0,1,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.22,0,16.1,-9999,0,0,68,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,PHL,PA,2208,33,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,-9999,0,0,87.1,0,0,0,0,"30    Clear
+Name: Conds_Description, dtype: object",10,30.02,0,10.4,-9999,0,0,64.9,0,0,0,0
+2017,9,6,3,9/6/2017,AA,LAS,NV,ORD,IL,30,15,,"2    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,3.5,-9999,0,0,86,0,0,0,0,"2    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,11.5,-9999,0,0,53.1,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,ORD,IL,1815,80,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,89.1,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,12.7,-9999,0,0,66.9,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,DFW,TX,1433,4,,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.75,0,10.4,19.6,0,0,82.9,0,0,0,0,"13    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.97,0,12.7,21.9,0,0,90,0,0,0,0
+2017,9,14,4,9/14/2017,AA,BOS,MA,MIA,FL,2122,168,,"27    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,5.8,-9999,0,0,71.1,0,0,0,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.99,0,5.8,-9999,0,0,84,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,LGA,NY,1846,100,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,89.1,0,0,0,0,"24    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,10.4,23,0,0,73,0,0,0,0
+2017,9,26,2,9/26/2017,AA,MIA,FL,PHL,PA,727,31,,"9    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.92,0,5.8,-9999,0,0,77,1,0,1,0,"11    Overcast
+Name: Conds_Description, dtype: object",10,30.03,0,8.1,-9999,0,0,68,0,0,0,0
+2017,9,14,4,9/14/2017,AA,BOS,MA,CLT,NC,1955,34,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.92,0,16.1,24.2,0,0,73,1,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,3.5,-9999,0,0,73,0,0,0,0
+2017,9,7,4,9/7/2017,AA,PHX,AZ,JFK,NY,2228,20,,"26    Light Rain
+Name: Conds_Description, dtype: object",10,29.71,0,9.2,29.9,0,0,99,0,0,1,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,13.8,-9999,0,0,68,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,ORD,IL,1822,13,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,89.1,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,12.7,-9999,0,0,66.9,0,0,0,0
+2017,9,20,3,9/20/2017,AA,MSY,LA,ORD,IL,1726,17,,"21    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,29.99,0,4.6,-9999,0,0,75,1,0,1,0,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,19.6,-9999,0,0,91,0,0,0,0
+2017,9,8,5,9/8/2017,AA,ORD,IL,MIA,FL,705,5,,"6    Overcast
+Name: Conds_Description, dtype: object",10,30.16,0,3.5,-9999,0,0,59,0,0,0,0,"6    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,4.6,-9999,0,0,84.9,0,0,0,0
+2017,9,14,4,9/14/2017,AA,BOS,MA,ORD,IL,1959,49,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.92,0,16.1,24.2,0,0,73,1,0,0,0,"32    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,73,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,LGA,NY,2015,69,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,88,0,0,0,0,"26    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,13.8,23,0,0,70,0,0,0,0
+2017,9,17,7,9/17/2017,AA,BOS,MA,DCA,VA,1950,8,,"41    Fog
+Name: Conds_Description, dtype: object",0.2,30.13,0,6.9,-9999,1,0,62.1,0,0,0,0,"25    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.08,0,4.6,-9999,0,0,78.1,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,DCA,VA,2132,8,,"38    Fog
+Name: Conds_Description, dtype: object",0.5,30.18,0,11.5,-9999,1,0,64,0,0,0,0,"31    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.05,0,8.1,-9999,0,0,72,0,0,0,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,BOS,MA,1737,20,,"23    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.07,0,10.4,-9999,0,0,80.1,0,0,0,0,"37    Mostly Cloudy
+Name: Conds_Description, dtype: object",1.5,30.13,0,10.4,-9999,0,0,63,0,0,0,0
+2017,9,22,5,9/22/2017,AA,BOS,MA,LGA,NY,1140,8,,"15    Overcast
+Name: Conds_Description, dtype: object",10,30.02,0,21.9,33.4,0,0,59,0,0,0,0,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30,0,18.4,26.5,0,0,73,0,0,0,0
+2017,9,6,3,9/6/2017,AA,LGA,NY,BOS,MA,2059,119,,"29    Light Rain
+Name: Conds_Description, dtype: object",8,29.89,0,5.8,-9999,0,0,63,0,0,1,0,"36    Light Drizzle
+Name: Conds_Description, dtype: object",3,29.91,0,12.7,-9999,0,0,64.9,0,0,0,0
+2017,9,14,4,9/14/2017,AA,LGA,NY,BOS,MA,1933,33,,"27    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,6.9,-9999,0,0,81,0,0,0,0,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.89,0,8.1,-9999,0,0,73,1,0,1,0
+2017,9,17,7,9/17/2017,AA,LGA,NY,BOS,MA,2046,89,,"31    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.1,0,9.2,-9999,0,0,72,0,0,0,0,"43    Overcast
+Name: Conds_Description, dtype: object",0.2,30.15,0,3.5,-9999,0,0,62.1,0,0,0,0
+2017,9,18,1,9/18/2017,AA,LGA,NY,BOS,MA,2038,20,,"34    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,11.5,-9999,0,0,72,0,0,0,0,"36    Overcast
+Name: Conds_Description, dtype: object",3,30.17,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,19,2,9/19/2017,AA,LGA,NY,BOS,MA,2044,2,,"20    Overcast
+Name: Conds_Description, dtype: object",10,29.88,0,18.4,26.5,0,0,72,0,0,0,0,"28    Overcast
+Name: Conds_Description, dtype: object",1,30,0,12.7,-9999,0,0,63,0,0,0,0
+2017,9,20,3,9/20/2017,AA,LGA,NY,BOS,MA,1920,4,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,16.1,-9999,0,0,78.1,0,0,0,0,"38    Overcast
+Name: Conds_Description, dtype: object",7,29.87,0,24.2,28.8,0,0,71.1,0,0,0,0
+2017,9,17,7,9/17/2017,AA,BOS,MA,DCA,VA,1839,9,,"40    Fog
+Name: Conds_Description, dtype: object",0.2,30.13,0,6.9,-9999,1,0,63,0,0,0,0,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,8.1,-9999,0,0,79,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,DCA,VA,2002,10,,"36    Overcast
+Name: Conds_Description, dtype: object",3,30.17,0,9.2,-9999,0,0,64.9,0,0,0,0,"30    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.05,0,10.4,-9999,0,0,73,0,0,0,0
+2017,9,22,5,9/22/2017,AA,BOS,MA,DCA,VA,1948,2,,"25    Overcast
+Name: Conds_Description, dtype: object",8,29.99,0,20.7,31.1,0,0,59,0,0,0,0,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.99,0,5.8,-9999,0,0,79,0,0,0,0
+2017,9,6,3,9/6/2017,AA,DCA,VA,BOS,MA,1722,92,,"35    Light Rain
+Name: Conds_Description, dtype: object",10,29.9,0,11.5,-9999,0,0,64,0,0,1,0,"29    Overcast
+Name: Conds_Description, dtype: object",7,29.88,0,5.8,-9999,0,0,66.9,0,0,0,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,BOS,MA,1631,43,,"22    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.08,0,5.8,-9999,0,0,84,0,0,0,0,"34    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,9.2,-9999,0,0,69.1,0,0,0,0
+2017,9,22,5,9/22/2017,AA,DCA,VA,BOS,MA,1716,106,,"16    Overcast
+Name: Conds_Description, dtype: object",10,30,0,10.4,-9999,0,0,82,0,0,0,0,"22    Light Drizzle
+Name: Conds_Description, dtype: object",2,30,0,25.3,35.7,0,0,60.1,0,0,0,0
+2017,9,18,1,9/18/2017,AA,LGA,NY,BOS,MA,1324,5,,"25    Overcast
+Name: Conds_Description, dtype: object",10,30.11,0,12.7,-9999,0,0,72,0,0,0,0,"25    Overcast
+Name: Conds_Description, dtype: object",2,30.18,0,8.1,-9999,0,0,66,0,0,0,0
+2017,9,14,4,9/14/2017,AA,BOS,MA,DCA,VA,2208,9,,"28    Overcast
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,70,0,0,0,0,"23    Overcast
+Name: Conds_Description, dtype: object",10,29.96,0,5.8,-9999,0,0,75.9,0,0,0,0
+2017,9,17,7,9/17/2017,AA,BOS,MA,DCA,VA,2257,11,,"48    Overcast
+Name: Conds_Description, dtype: object",10,30.15,0,3.5,-9999,0,0,66.9,0,0,0,0,"29    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.1,0,0,-9999,0,0,73.9,0,0,0,0
+2017,9,20,3,9/20/2017,AA,BOS,MA,DCA,VA,2311,104,,"43    Overcast
+Name: Conds_Description, dtype: object",10,29.88,0,19.6,-9999,0,0,72,0,0,0,0,"22    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,3.5,-9999,0,0,75,0,0,0,0
+2017,9,6,3,9/6/2017,AA,DCA,VA,BOS,MA,2015,105,,"45    Light Rain
+Name: Conds_Description, dtype: object",10,29.88,0,8.1,-9999,0,0,63,0,0,1,0,"35    Overcast
+Name: Conds_Description, dtype: object",3,29.89,0,3.5,-9999,0,0,64,0,0,0,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,BOS,MA,2043,98,,"26    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,0,-9999,0,0,77,0,0,0,0,"42    Fog
+Name: Conds_Description, dtype: object",0.2,30.14,0,5.8,-9999,1,0,62.1,0,0,0,0
+2017,9,5,2,9/5/2017,AA,DCA,VA,BOS,MA,2251,10,,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,4.6,-9999,0,0,70,0,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.82,0,16.1,-9999,0,0,72,0,0,0,0
+2017,9,6,3,9/6/2017,AA,DCA,VA,BOS,MA,2215,6,,"52    Overcast
+Name: Conds_Description, dtype: object",10,29.95,0,5.8,-9999,0,0,63,0,0,0,0,"39    Light Rain
+Name: Conds_Description, dtype: object",3,29.89,0,8.1,-9999,0,0,63,0,0,1,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,BOS,MA,2252,35,,"29    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.1,0,0,-9999,0,0,73.9,0,0,0,0,"47    Overcast
+Name: Conds_Description, dtype: object",8,30.16,0,0,-9999,0,0,64,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,DCA,VA,1246,9,,"23    Overcast
+Name: Conds_Description, dtype: object",0.5,30.18,0,9.2,-9999,0,0,66,0,0,0,0,"19    Overcast
+Name: Conds_Description, dtype: object",10,30.1,0,10.4,-9999,0,0,75,0,0,0,0
+2017,9,6,3,9/6/2017,AA,DCA,VA,BOS,MA,2042,33,,"46    Light Rain
+Name: Conds_Description, dtype: object",8,29.92,0,4.6,-9999,0,0,63,0,0,1,0,"35    Overcast
+Name: Conds_Description, dtype: object",3,29.89,0,3.5,-9999,0,0,64,0,0,0,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,BOS,MA,2058,58,,"27    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.1,0,3.5,-9999,0,0,75.9,0,0,0,0,"44    Fog
+Name: Conds_Description, dtype: object",0.2,30.15,0,3.5,-9999,1,0,63,0,0,0,0
+2017,9,22,5,9/22/2017,AA,DCA,VA,BOS,MA,2018,5,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,3.5,-9999,0,0,80.1,0,0,0,0,"26    Light Drizzle
+Name: Conds_Description, dtype: object",7,30,0,21.9,35.7,0,0,60.1,0,0,0,0
+2017,9,14,4,9/14/2017,AA,BOS,MA,LGA,NY,2201,1,,"28    Overcast
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,70,0,0,0,0,"30    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,79,0,0,0,0
+2017,9,20,3,9/20/2017,AA,BOS,MA,LGA,NY,1952,4,,"38    Overcast
+Name: Conds_Description, dtype: object",7,29.87,0,24.2,28.8,0,0,71.1,0,0,0,0,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,11.5,-9999,0,0,77,0,0,0,0
+2017,9,13,3,9/13/2017,AA,LGA,NY,BOS,MA,1716,4,,"17    Light Rain
+Name: Conds_Description, dtype: object",10,29.86,0,6.9,-9999,0,0,75.9,1,0,1,0,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.82,0,9.2,-9999,0,0,71.1,0,0,0,0
+2017,9,19,2,9/19/2017,AA,LGA,NY,BOS,MA,1748,48,,"16    Light Rain
+Name: Conds_Description, dtype: object",10,29.89,0,16.1,21.9,0,0,73,0,0,1,0,"23    Overcast
+Name: Conds_Description, dtype: object",1.5,30.01,0,13.8,-9999,0,0,64,0,0,0,0
+2017,9,20,3,9/20/2017,AA,LGA,NY,BOS,MA,1800,56,,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.89,0,13.8,25.3,0,0,78.1,0,0,0,0,"36    Light Rain
+Name: Conds_Description, dtype: object",6,29.87,0,21.9,29.9,0,0,69.1,0,0,1,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,DCA,VA,1528,3,,"30    Overcast
+Name: Conds_Description, dtype: object",3,30.17,0,9.2,-9999,0,0,66,0,0,0,0,"22    Overcast
+Name: Conds_Description, dtype: object",10,30.07,0,9.2,-9999,0,0,75,0,0,0,0
+2017,9,20,3,9/20/2017,AA,BOS,MA,DCA,VA,1525,10,,"30    Light Rain
+Name: Conds_Description, dtype: object",1.8,29.86,0,25.3,34.5,0,0,68,0,0,1,0,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,3.5,-9999,0,0,87.1,0,0,0,0
+2017,9,15,5,9/15/2017,AA,DCA,VA,BOS,MA,1326,56,,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,5.8,-9999,0,0,80.1,0,0,0,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,11.5,-9999,0,0,75.9,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,DCA,VA,1546,1,,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.73,0,15,-9999,0,0,84,0,0,0,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.76,0,16.1,-9999,0,0,86,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,DCA,VA,2133,211,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,4.6,-9999,0,0,73,0,0,0,0,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,3.5,-9999,0,0,71.1,0,0,0,0
+2017,9,6,3,9/6/2017,AA,LGA,NY,BOS,MA,1446,9,,"19    Light Rain
+Name: Conds_Description, dtype: object",8,29.88,0,9.2,-9999,0,0,63,0,0,1,0,"24    Overcast
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,68,0,0,0,0
+2017,9,17,7,9/17/2017,AA,BOS,MA,DCA,VA,1805,20,,"38    Fog
+Name: Conds_Description, dtype: object",0.2,30.14,0,8.1,-9999,1,0,63,0,0,0,0,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,8.1,-9999,0,0,79,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,DCA,VA,1753,19,,"33    Overcast
+Name: Conds_Description, dtype: object",3,30.15,0,5.8,-9999,0,0,66,0,0,0,0,"27    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,10.4,-9999,0,0,77,0,0,0,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,BOS,MA,1508,38,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.1,0,3.5,-9999,0,0,84,0,0,0,0,"33    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,8.1,-9999,0,0,71.1,0,0,0,0
+2017,9,5,2,9/5/2017,AA,DCA,VA,BOS,MA,2357,9,,"28    Overcast
+Name: Conds_Description, dtype: object",10,29.82,0,0,-9999,0,0,71.1,0,0,0,0,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,15,-9999,0,0,71.1,0,0,0,0
+2017,9,6,3,9/6/2017,AA,DCA,VA,BOS,MA,2102,2,,"48    Light Rain
+Name: Conds_Description, dtype: object",10,29.93,0,0,-9999,0,0,63,0,0,1,0,"37    Heavy Rain
+Name: Conds_Description, dtype: object",2,29.9,0,11.5,-9999,0,0,64,0,0,1,0
+2017,9,17,7,9/17/2017,AA,DCA,VA,BOS,MA,2158,58,,"28    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,5.8,-9999,0,0,73.9,0,0,0,0,"47    Overcast
+Name: Conds_Description, dtype: object",8,30.16,0,0,-9999,0,0,64,0,0,0,0
+2017,9,22,5,9/22/2017,AA,DCA,VA,BOS,MA,2117,17,,"20    Overcast
+Name: Conds_Description, dtype: object",10,30.01,0,0,-9999,0,0,75,0,0,0,0,"27    Light Drizzle
+Name: Conds_Description, dtype: object",5,30,0,19.6,28.8,0,0,60.1,0,0,0,0
+2017,9,5,2,9/5/2017,AA,DCA,VA,LGA,NY,2131,206,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,3.5,-9999,0,0,71.1,0,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,4.6,-9999,0,0,73,0,0,0,0
+2017,9,5,2,9/5/2017,AA,LGA,NY,DCA,VA,2315,151,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,9.2,-9999,0,0,75,0,0,0,0,"27    Overcast
+Name: Conds_Description, dtype: object",6,29.84,0,0,-9999,0,0,70,0,0,0,0
+2017,9,24,7,9/24/2017,AA,LGA,NY,DCA,VA,1946,1,,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,9.2,-9999,0,0,82.9,0,0,0,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.04,0,6.9,-9999,0,0,84,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,LGA,NY,1356,16,,"28    Light Drizzle
+Name: Conds_Description, dtype: object",0.5,30.18,0,9.2,-9999,0,0,64.9,0,0,0,0,"26    Overcast
+Name: Conds_Description, dtype: object",10,30.1,0,13.8,-9999,0,0,71.1,0,0,0,0
+2017,9,18,1,9/18/2017,AA,BOS,MA,DCA,VA,1444,5,,"28    Light Drizzle
+Name: Conds_Description, dtype: object",0.5,30.18,0,9.2,-9999,0,0,64.9,0,0,0,0,"21    Overcast
+Name: Conds_Description, dtype: object",10,30.07,0,11.5,-9999,0,0,75,0,0,0,0
+2017,9,20,3,9/20/2017,AA,BOS,MA,LGA,NY,1747,3,,"35    Overcast
+Name: Conds_Description, dtype: object",6,29.87,0,21.9,33.4,0,0,69.1,0,0,0,0,"21    Overcast
+Name: Conds_Description, dtype: object",10,29.88,0,13.8,23,0,0,78.1,0,0,0,0
+2017,9,18,1,9/18/2017,AA,LGA,NY,BOS,MA,1632,40,,"28    Overcast
+Name: Conds_Description, dtype: object",10,30.09,0,12.7,-9999,0,0,72,0,0,0,0,"31    Overcast
+Name: Conds_Description, dtype: object",3,30.16,0,8.1,-9999,0,0,66,0,0,0,0
+2017,9,5,2,9/5/2017,AA,DCA,VA,ORD,IL,1930,16,,"22    Light Rain
+Name: Conds_Description, dtype: object",7,29.82,0,9.2,-9999,0,0,69.1,0,0,1,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,10.4,-9999,0,0,61,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,DFW,TX,1822,153,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,89.1,0,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.05,0,6.9,-9999,0,0,84.9,0,0,0,0
+2017,9,8,5,9/8/2017,AA,MIA,FL,DFW,TX,1719,39,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,15,21.9,0,0,91,0,0,0,0,"16    Clear
+Name: Conds_Description, dtype: object",10,30.06,0,10.4,-9999,0,0,84.9,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,DFW,TX,1631,20,,"25    Light Rain
+Name: Conds_Description, dtype: object",9,29.86,0,0,-9999,0,0,79,0,0,1,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.86,0,17.3,-9999,0,0,93.9,0,0,0,0
+2017,9,29,5,9/29/2017,AA,MIA,FL,DFW,TX,1605,7,,"26    Overcast
+Name: Conds_Description, dtype: object",8,29.89,0,6.9,-9999,0,0,82,0,0,0,0,"15    Overcast
+Name: Conds_Description, dtype: object",10,30.12,0,0,-9999,0,0,68,0,0,0,0
+2017,9,1,5,9/1/2017,AA,CLT,NC,DFW,TX,2014,9,,"35    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.94,0,11.5,21.9,0,0,73,1,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,0,-9999,0,0,86,0,0,0,0
+2017,9,22,5,9/22/2017,AA,MIA,FL,LGA,NY,1630,45,,"25    Light Rain
+Name: Conds_Description, dtype: object",9,29.86,0,0,-9999,0,0,79,0,0,1,0,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.94,0,17.3,24.2,0,0,80.1,0,0,0,0
+2017,9,8,5,9/8/2017,AA,LAS,NV,DFW,TX,2052,97,,"34    Light Rain
+Name: Conds_Description, dtype: object",10,30.01,0,8.1,-9999,0,0,69.1,0,0,1,0,"19    Clear
+Name: Conds_Description, dtype: object",10,30.06,0,9.2,-9999,0,0,78.1,0,0,0,0
+2017,9,6,3,9/6/2017,AA,LGA,NY,MIA,FL,703,4,,"6    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.82,0,4.6,-9999,0,0,72,0,0,0,0,"6    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.92,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,13,3,9/13/2017,AA,JFK,NY,ORD,IL,1730,19,,"21    Light Rain
+Name: Conds_Description, dtype: object",10,29.87,0,6.9,-9999,0,0,71.1,0,0,1,0,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.75,0,10.4,-9999,0,0,72,0,0,0,0
+2017,9,14,4,9/14/2017,AA,MCO,FL,LGA,NY,2202,94,,"27    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.99,0,8.1,-9999,0,0,73.9,1,0,0,0,"30    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,6.9,-9999,0,0,79,0,0,0,0
+2017,9,30,6,9/30/2017,AA,MCO,FL,LGA,NY,2043,32,,"32    Light Rain
+Name: Conds_Description, dtype: object",9,29.94,0,0,-9999,0,0,75,0,0,1,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.28,0,18.4,27.6,0,0,55.9,0,0,0,0
+2017,9,7,4,9/7/2017,AA,PHX,AZ,DFW,TX,2201,12,,"26    Light Rain
+Name: Conds_Description, dtype: object",10,29.71,0,9.2,29.9,0,0,99,0,0,1,0,"20    Clear
+Name: Conds_Description, dtype: object",10,30.07,0,6.9,-9999,0,0,72,0,0,0,0
+2017,9,8,5,9/8/2017,AA,DEN,CO,ORD,IL,1332,372,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,3.5,-9999,0,0,82,0,0,0,0,"12    Overcast
+Name: Conds_Description, dtype: object",10,30.25,0,10.4,-9999,0,0,64,0,0,0,0
+2017,9,7,4,9/7/2017,AA,MIA,FL,LGA,NY,2145,32,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,12.7,-9999,0,0,87.1,0,0,0,0,"27    Clear
+Name: Conds_Description, dtype: object",10,29.96,0,13.8,-9999,0,0,69.1,0,0,0,0
+2017,9,30,6,9/30/2017,AA,MCO,FL,DFW,TX,2035,56,,"31    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",5,29.95,0,12.7,17.3,0,0,75.9,1,0,1,0,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.02,0,5.8,-9999,0,0,75.9,0,0,0,0
+2017,9,21,4,9/21/2017,AA,DFW,TX,IAH,TX,1409,89,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,13.8,19.6,0,0,93.9,0,0,0,0,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.97,0,6.9,-9999,0,0,78.1,0,0,0,0
+2017,9,18,1,9/18/2017,AA,IAH,TX,DFW,TX,1459,19,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,4.6,-9999,0,0,91.9,0,0,0,0
+2017,9,13,3,9/13/2017,AA,EWR,NJ,DFW,TX,1524,54,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,12.7,-9999,0,0,79,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,6.9,-9999,0,0,89.1,0,0,0,0
+2017,9,17,7,9/17/2017,EV,SGF,MO,IAH,TX,1404,24,,"16    Rain
+Name: Conds_Description, dtype: object",4,30.14,0,3.5,-9999,0,0,66,0,0,1,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,0,-9999,0,0,90,0,0,0,0
+2017,9,6,3,9/6/2017,EV,RIC,VA,ORD,IL,1810,52,,"24    Overcast
+Name: Conds_Description, dtype: object",8,29.89,0,9.2,-9999,0,0,62.1,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,6.9,-9999,0,0,61,0,0,0,0
+2017,9,3,7,9/3/2017,EV,TYS,TN,ORD,IL,919,122,,"12    Overcast
+Name: Conds_Description, dtype: object",0.8,30.13,0,0,-9999,0,0,57,0,0,0,0,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,4.6,-9999,0,0,68,0,0,0,0
+2017,9,14,4,9/14/2017,EV,TYS,TN,ORD,IL,917,19,,"9    Overcast
+Name: Conds_Description, dtype: object",10,29.96,0,5.8,-9999,0,0,63,0,0,0,0,"16    Overcast
+Name: Conds_Description, dtype: object",2.5,29.9,0,3.5,-9999,0,0,63,0,0,0,0
+2017,9,23,6,9/23/2017,EV,SAV,GA,IAH,TX,1839,3,,"27    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.98,0,11.5,-9999,0,0,84.9,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,17.3,-9999,0,0,84.2,0,0,0,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,COS,CO,1501,16,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,26.5,33.4,0,0,69.1,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IND,IN,ORD,IL,2145,20,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.99,0,6.9,-9999,0,0,71.1,1,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,9.2,-9999,0,0,66.9,0,0,0,0
+2017,9,21,4,9/21/2017,EV,LIT,AR,IAH,TX,1516,194,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,8.1,-9999,0,0,90,0,0,0,0,"19    Overcast
+Name: Conds_Description, dtype: object",10,29.94,0,11.5,-9999,0,0,78.1,0,0,0,0
+2017,9,18,1,9/18/2017,EV,LIT,AR,IAH,TX,1600,12,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.94,0,10.4,-9999,0,0,84,0,0,0,0,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.94,0,6.9,-9999,0,0,82,1,0,0,0
+2017,9,21,4,9/21/2017,EV,LIT,AR,IAH,TX,1532,5,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,8.1,-9999,0,0,90,0,0,0,0,"19    Overcast
+Name: Conds_Description, dtype: object",10,29.94,0,11.5,-9999,0,0,78.1,0,0,0,0
+2017,9,14,4,9/14/2017,EV,GRB,WI,ORD,IL,732,108,,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",3,29.84,0,0,-9999,0,0,51.1,0,0,0,0,"11    Overcast
+Name: Conds_Description, dtype: object",0.8,29.87,0,3.5,-9999,0,0,62.1,0,0,0,0
+2017,9,17,7,9/17/2017,EV,AZO,MI,ORD,IL,2009,98,,"27    Haze
+Name: Conds_Description, dtype: object",5,30.04,0,5.8,-9999,0,0,71.1,0,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.06,0,9.2,-9999,0,0,73,0,0,0,0
+2017,9,11,1,9/11/2017,EV,BHM,AL,IAH,TX,2254,224,,"30    Light Rain
+Name: Conds_Description, dtype: object",8,29.62,0,12.7,-9999,0,0,59,0,0,1,0,"22    Clear
+Name: Conds_Description, dtype: object",10,29.95,0,3.5,-9999,0,0,69.1,0,0,0,0
+2017,9,28,4,9/28/2017,EV,STL,MO,ORD,IL,1333,13,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.19,0,8.1,-9999,0,0,71.1,0,0,0,0,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.19,0,5.8,-9999,0,0,69.8,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,GPT,MS,1331,21,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,5.8,-9999,0,0,90,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,JAN,MS,1336,26,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,0,-9999,0,0,91,0,0,0,0
+2017,9,21,4,9/21/2017,EV,JAN,MS,IAH,TX,1414,110,,"24    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.03,0,6.9,-9999,0,0,89.6,0,0,0,0,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.97,0,6.9,-9999,0,0,78.1,0,0,0,0
+2017,9,25,1,9/25/2017,EV,ORD,IL,CAE,SC,1912,35,,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,11.5,-9999,0,0,84.9,0,0,0,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,5.8,-9999,0,0,84.9,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,GRK,TX,1533,58,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,4.6,-9999,0,0,91.9,0,0,0,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,GRK,TX,1506,35,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,13.8,-9999,0,0,93.7,0,0,0,0
+2017,9,11,1,9/11/2017,EV,IAH,TX,BHM,AL,1950,11,,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,8.1,-9999,0,0,79,0,0,0,0,"25    Rain
+Name: Conds_Description, dtype: object",5,29.68,0,19.6,27.6,0,0,57.9,0,0,1,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,AEX,LA,1509,8,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"26    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,6.9,-9999,0,0,91.9,0,0,0,0
+2017,9,4,1,9/4/2017,EV,ORD,IL,CAK,OH,2211,171,,"24    Overcast
+Name: Conds_Description, dtype: object",10,29.8,0,6.9,-9999,0,0,66,0,0,0,0,"21    Overcast
+Name: Conds_Description, dtype: object",10,29.74,0,19.6,27.6,0,0,77,0,0,0,0
+2017,9,11,1,9/11/2017,EV,CAE,SC,ORD,IL,1825,46,,"35    Heavy Rain
+Name: Conds_Description, dtype: object",2,29.66,0,24.2,38,0,0,68,0,0,1,0,"17    Overcast
+Name: Conds_Description, dtype: object",10,30.15,0,9.2,-9999,0,0,69.1,0,0,0,0
+2017,9,17,7,9/17/2017,EV,CAE,SC,ORD,IL,1715,10,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30,0,6.9,-9999,0,0,90,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,10.4,-9999,0,0,82,0,0,0,0
+2017,9,20,3,9/20/2017,EV,ORD,IL,GRB,WI,2148,35,,"22    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,82.9,0,0,0,0,"35    Light Rain
+Name: Conds_Description, dtype: object",10,29.86,0,12.7,-9999,0,0,71.6,1,0,1,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,CLL,TX,1508,23,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"25    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,12.7,-9999,0,0,93,0,0,0,0
+2017,9,11,1,9/11/2017,EV,IAH,TX,GSP,SC,1110,41,,"10    Clear
+Name: Conds_Description, dtype: object",10,30.05,0,6.9,-9999,0,0,79,0,0,0,0,"10    Light Rain
+Name: Conds_Description, dtype: object",8,30.04,0,23,32.2,0,0,57,0,0,1,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,DSM,IA,1508,23,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.75,0,8.1,-9999,0,0,86,0,0,0,0
+2017,9,25,1,9/25/2017,EV,ORD,IL,LIT,AR,1001,29,,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,4.6,-9999,0,0,81,0,0,0,0,"9    Clear
+Name: Conds_Description, dtype: object",7,29.99,0,4.6,-9999,0,0,78.1,0,0,0,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,AMA,TX,1500,29,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"14    Clear
+Name: Conds_Description, dtype: object",10,29.82,0,3.5,-9999,0,0,77,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,LIT,AR,1346,26,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,5.8,-9999,0,0,87.1,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,SHV,LA,1701,55,,"28    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.93,0,10.4,-9999,0,0,82,1,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,8.1,-9999,0,0,88,0,0,0,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,SHV,LA,1547,2,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,10.4,-9999,0,0,91,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,TYS,TN,1329,26,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.99,0,5.8,-9999,0,0,82,1,0,1,0,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.06,0,5.8,-9999,0,0,82,0,0,0,0
+2017,9,5,2,9/5/2017,EV,CHA,TN,ORD,IL,1943,17,,"29    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",3,29.89,0,6.9,-9999,0,0,68,1,0,1,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,10.4,-9999,0,0,61,0,0,0,0
+2017,9,21,4,9/21/2017,EV,MAF,TX,IAH,TX,1407,24,,"41    Clear
+Name: Conds_Description, dtype: object",10,29.93,0,10.4,17.3,0,0,96.8,0,0,0,0,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.97,0,6.9,-9999,0,0,78.1,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,MFE,TX,1540,25,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,10.4,-9999,0,0,99,0,0,0,0
+2017,9,20,3,9/20/2017,EV,IAH,TX,MFE,TX,1519,6,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,8.1,-9999,0,0,89.1,0,0,0,0,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.82,0,17.3,-9999,0,0,100.9,0,0,0,0
+2017,9,9,6,9/9/2017,EV,VPS,FL,IAH,TX,703,49,,"6    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.07,0,8.1,-9999,0,0,67.8,0,0,0,0,"6    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.1,0,4.6,-9999,0,0,64,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,ICT,KS,1741,82,,"29    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.95,0,10.4,-9999,0,0,81,1,0,0,0,"22    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,11.5,-9999,0,0,86,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IAH,TX,CMH,OH,1545,3,,"24    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.97,0,0,-9999,0,0,81,1,0,1,0,"14    Overcast
+Name: Conds_Description, dtype: object",10,30.04,0,3.5,-9999,0,0,81,0,0,0,0
+2017,9,25,1,9/25/2017,EV,ORD,IL,FNT,MI,2144,24,,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,8.1,-9999,0,0,79,0,0,0,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,4.6,-9999,0,0,77,0,0,0,0
+2017,9,24,7,9/24/2017,EV,IAH,TX,SHV,LA,1751,1,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.83,0,10.4,-9999,0,0,89.1,0,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,6.9,-9999,0,0,90,0,0,0,0
+2017,9,18,1,9/18/2017,EV,IND,IN,IAH,TX,2136,59,,"25    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.99,0,6.9,-9999,0,0,71.1,1,0,0,0,"36    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,0,-9999,0,0,73.9,0,0,0,0
+2017,9,17,7,9/17/2017,EV,BHM,AL,ORD,IL,1839,39,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.05,0,0,-9999,0,0,75,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.03,0,12.7,-9999,0,0,79,0,0,0,0
+2017,9,8,5,9/8/2017,WN,DEN,CO,FLL,FL,1250,118,,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,3.5,-9999,0,0,78.1,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,18.4,26.5,0,0,90,0,0,0,0
+2017,9,8,5,9/8/2017,WN,DEN,CO,LAS,NV,1556,86,,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,6.9,-9999,0,0,84,0,0,0,0,"28    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,10.4,-9999,0,0,81,0,0,0,0
+2017,9,8,5,9/8/2017,WN,DEN,CO,LAS,NV,16,184,,"0    Clear
+Name: Conds_Description, dtype: object",10,29.89,0,12.7,-9999,0,0,61,0,0,0,0,"0    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.78,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,8,5,9/8/2017,WN,DEN,CO,LAS,NV,1522,148,,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,0,-9999,0,0,84,0,0,0,0,"27    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,6.9,-9999,0,0,81,0,0,0,0
+2017,9,8,5,9/8/2017,WN,DEN,CO,MCO,FL,1355,70,,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,5.8,-9999,0,0,84,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,12.7,-9999,0,0,82,0,0,0,0
+2017,9,8,5,9/8/2017,WN,DEN,CO,TPA,FL,1215,55,,"11    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,3.5,-9999,0,0,78.1,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,8.1,-9999,0,0,90,0,0,0,0
+2017,9,8,5,9/8/2017,WN,LAS,NV,DEN,CO,1253,26,,"24    Light Rain
+Name: Conds_Description, dtype: object",10,30.02,0,8.1,-9999,0,0,75,0,0,1,0,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,8,5,9/8/2017,WN,LAS,NV,DEN,CO,642,17,,"8    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.91,0,9.2,24.2,0,0,81,1,0,0,0,"5    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,10.4,-9999,0,0,55.9,0,0,0,0
+2017,9,8,5,9/8/2017,WN,LAS,NV,SFO,CA,2304,21,,"37    Overcast
+Name: Conds_Description, dtype: object",10,29.96,0,3.5,-9999,0,0,69.1,0,0,0,0,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,12.7,-9999,0,0,61,0,0,0,0
+2017,9,8,5,9/8/2017,WN,PHL,PA,TPA,FL,1220,85,,"12    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.14,0,10.4,-9999,0,0,70,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,8.1,-9999,0,0,90,0,0,0,0
+2017,9,8,5,9/8/2017,WN,RNO,NV,DEN,CO,1607,10,,"17    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,29.83,0,13.8,28.8,0,0,79,1,0,1,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,6.9,-9999,0,0,84,0,0,0,0
+2017,9,8,5,9/8/2017,WN,SFO,CA,LAS,NV,1346,126,,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",9,29.91,0,17.3,-9999,0,0,71.1,0,0,0,0,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,8.1,-9999,0,0,78.1,0,0,0,0
+2017,9,9,6,9/9/2017,WN,DAL,TX,SFO,CA,941,36,,"8    Clear
+Name: Conds_Description, dtype: object",10,30.19,0,3.5,-9999,0,0,71.1,0,0,0,0,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,3.5,-9999,0,0,64.9,0,0,0,0
+2017,9,16,6,9/16/2017,WN,MCI,MO,DEN,CO,1736,9,,"21    Light Rain
+Name: Conds_Description, dtype: object",8,29.85,0,17.3,-9999,0,0,73.9,0,0,1,0,"23    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,11.5,-9999,0,0,66.9,0,0,0,0
+2017,9,18,1,9/18/2017,WN,SFO,CA,LAX,CA,948,35,,"8    Overcast
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,17.3,0,0,64.9,0,0,0,0,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.95,0,5.8,-9999,0,0,66.9,0,0,0,0
+2017,9,18,1,9/18/2017,WN,SNA,CA,SFO,CA,1012,13,,"12    Overcast
+Name: Conds_Description, dtype: object",9,29.96,0,0,-9999,0,0,68,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,10.4,-9999,0,0,69.1,0,0,0,0
+2017,9,19,2,9/19/2017,WN,ATL,GA,BOS,MA,1525,130,,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,3.5,-9999,0,0,87.1,0,0,0,0,"19    Overcast
+Name: Conds_Description, dtype: object",10,30.04,0,18.4,-9999,0,0,64.9,0,0,0,0
+2017,9,19,2,9/19/2017,WN,ATL,GA,BOS,MA,2003,62,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,4.6,-9999,0,0,81,0,0,0,0,"28    Overcast
+Name: Conds_Description, dtype: object",1,30,0,12.7,-9999,0,0,63,0,0,0,0
+2017,9,19,2,9/19/2017,WN,ATL,GA,PHL,PA,856,41,,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,4.6,-9999,0,0,72,0,0,0,0,"10    Overcast
+Name: Conds_Description, dtype: object",10,29.98,0,13.8,26.5,0,0,73,0,0,0,0
+2017,9,19,2,9/19/2017,WN,BWI,MD,BOS,MA,1304,59,,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,9.2,-9999,0,0,79,0,0,0,0,"17    Light Rain
+Name: Conds_Description, dtype: object",6,30.08,0,16.1,-9999,0,0,64,0,0,1,0
+2017,9,19,2,9/19/2017,WN,DEN,CO,LGA,NY,1047,27,,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.49,0,13.8,-9999,0,0,73,0,0,0,0,"9    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,18.4,-9999,0,0,73,0,0,0,0
+2017,9,19,2,9/19/2017,WN,IND,IN,BOS,MA,1659,78,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,12.7,-9999,0,0,82.9,0,0,0,0,"22    Fog
+Name: Conds_Description, dtype: object",0.5,30.02,0,15,-9999,1,0,64,0,0,0,0
+2017,9,19,2,9/19/2017,WN,MCI,MO,DEN,CO,632,17,,"11    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.89,0,4.6,-9999,0,0,68,1,0,1,0,"5    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.52,0,12.7,-9999,0,0,61,0,0,0,0
+2017,9,19,2,9/19/2017,WN,MDW,IL,EWR,NJ,2004,88,,"29    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,5.8,-9999,0,0,70,0,0,0,0,"23    Light Rain
+Name: Conds_Description, dtype: object",10,29.88,0,20.7,27.6,0,0,69.1,0,0,1,0
+2017,9,19,2,9/19/2017,WN,MDW,IL,EWR,NJ,1218,43,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,4.6,-9999,0,0,73.9,0,0,0,0,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,19.6,27.6,0,0,77,0,0,0,0
+2017,9,19,2,9/19/2017,WN,MKE,WI,BOS,MA,1623,61,,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",5,29.94,0,10.4,-9999,0,0,69.1,0,0,0,0,"20    Overcast
+Name: Conds_Description, dtype: object",2,30.04,0,16.1,-9999,0,0,64,0,0,0,0
+2017,9,19,2,9/19/2017,WN,PHX,AZ,EWR,NJ,1129,69,,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.8,0,8.1,-9999,0,0,90,0,0,0,0,"12    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,16.1,27.6,0,0,78.1,0,0,0,0
+2017,9,19,2,9/19/2017,WN,STL,MO,BOS,MA,1710,49,,"23    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.83,0,5.8,-9999,0,0,89.1,0,0,0,0,"22    Fog
+Name: Conds_Description, dtype: object",0.5,30.02,0,15,-9999,1,0,64,0,0,0,0
+2017,9,19,2,9/19/2017,WN,STL,MO,EWR,NJ,2051,66,,"27    Clear
+Name: Conds_Description, dtype: object",10,29.84,0,6.9,-9999,0,0,82,0,0,0,0,"24    Overcast
+Name: Conds_Description, dtype: object",10,29.89,0,15,24.2,0,0,71.1,0,0,0,0
+2017,9,20,3,9/20/2017,WN,AUS,TX,EWR,NJ,1933,22,,"22    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,11.5,-9999,0,0,91,0,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,11.5,-9999,0,0,79,0,0,0,0
+2017,9,20,3,9/20/2017,WN,BWI,MD,BOS,MA,1931,45,,"18    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,3.5,-9999,0,0,81,0,0,0,0,"38    Overcast
+Name: Conds_Description, dtype: object",7,29.87,0,24.2,28.8,0,0,71.1,0,0,0,0
+2017,9,20,3,9/20/2017,WN,DAL,TX,SFO,CA,955,25,,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,15,24.2,0,0,82.9,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",10,29.95,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,20,3,9/20/2017,WN,DEN,CO,BOS,MA,1618,33,,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.64,0,17.3,21.9,0,0,79,0,0,0,0,"32    Overcast
+Name: Conds_Description, dtype: object",2.5,29.85,0,26.5,33.4,0,0,68,0,0,0,0
+2017,9,25,1,9/25/2017,WN,MKE,WI,LGA,NY,1711,21,,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,13.8,-9999,0,0,84.9,0,0,0,0,"16    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,9.2,-9999,0,0,84,0,0,0,0
+2017,9,3,7,9/3/2017,WN,SFO,CA,LAX,CA,1902,16,,"18    Haze
+Name: Conds_Description, dtype: object",6,29.83,0,16.1,-9999,0,0,72,0,0,0,0,"19    Light Rain
+Name: Conds_Description, dtype: object",10,29.91,0,15,-9999,0,0,77,0,0,1,0
+2017,9,4,1,9/4/2017,WN,BUR,CA,SFO,CA,1515,39,,"18    Smoke
+Name: Conds_Description, dtype: object",10,29.89,0,12.7,-9999,0,0,79,0,0,0,0,"15    Haze
+Name: Conds_Description, dtype: object",5,29.85,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,4,1,9/4/2017,WN,BUR,CA,SFO,CA,1137,87,,"14    Smoke
+Name: Conds_Description, dtype: object",10,29.91,0,9.2,-9999,0,0,81,0,0,0,0,"10    Haze
+Name: Conds_Description, dtype: object",4,29.86,0,6.9,-9999,0,0,73,0,0,0,0
+2017,9,4,1,9/4/2017,WN,LAX,CA,SFO,CA,1504,204,,"16    Overcast
+Name: Conds_Description, dtype: object",10,29.93,0,10.4,-9999,0,0,75.9,0,0,0,0,"15    Haze
+Name: Conds_Description, dtype: object",5,29.85,0,3.5,-9999,0,0,82,0,0,0,0
+2017,9,4,1,9/4/2017,WN,LAX,CA,SFO,CA,1703,93,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,9.2,-9999,0,0,77,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,4.6,-9999,0,0,82.9,0,0,0,0
+2017,9,11,1,9/11/2017,WN,ABQ,NM,DEN,CO,1755,10,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.93,0,6.9,-9999,0,0,88,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,13.8,-9999,0,0,81,0,0,0,0
+2017,9,11,1,9/11/2017,WN,LAS,NV,DEN,CO,1715,125,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.81,0,3.5,-9999,0,0,99,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,0,-9999,0,0,84,0,0,0,0
+2017,9,11,1,9/11/2017,WN,LAX,CA,DEN,CO,1703,66,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,13.8,-9999,0,0,75.9,0,0,0,0,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,0,-9999,0,0,84,0,0,0,0
+2017,9,11,1,9/11/2017,WN,LAX,CA,SFO,CA,1940,29,,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,10.4,-9999,0,0,71.1,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0
+2017,9,11,1,9/11/2017,WN,PDX,OR,SFO,CA,1931,56,,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,12.7,23,0,0,86,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0
+2017,9,17,7,9/17/2017,WN,ABQ,NM,DEN,CO,1713,13,,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.81,0,27.6,32.2,0,0,84.9,0,0,0,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,17,7,9/17/2017,WN,BWI,MD,BOS,MA,2139,281,,"27    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,0,-9999,0,0,72,0,0,0,0,"45    Overcast
+Name: Conds_Description, dtype: object",0.2,30.15,0,0,-9999,0,0,63,0,0,0,0
+2017,9,17,7,9/17/2017,WN,BWI,MD,BOS,MA,2219,61,,"28    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.09,0,0,-9999,0,0,70,0,0,0,0,"47    Overcast
+Name: Conds_Description, dtype: object",8,30.16,0,0,-9999,0,0,64,0,0,0,0
+2017,9,17,7,9/17/2017,WN,BWI,MD,BOS,MA,1316,91,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.12,0,5.8,-9999,0,0,79,0,0,0,0,"31    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.15,0,4.6,-9999,0,0,72,0,0,0,0
+2017,9,17,7,9/17/2017,WN,DEN,CO,BOS,MA,1941,15,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,6.9,-9999,0,0,62.1,0,0,0,0,"41    Fog
+Name: Conds_Description, dtype: object",0.2,30.13,0,6.9,-9999,1,0,62.1,0,0,0,0
+2017,9,17,7,9/17/2017,WN,DEN,CO,BOS,MA,1151,66,,"10    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,5.8,-9999,0,0,64,0,0,0,0,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",0.8,30.17,0,6.9,-9999,0,0,66.2,0,0,0,0
+2017,9,17,7,9/17/2017,WN,MKE,WI,BOS,MA,1551,81,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,11.5,-9999,0,0,75.9,0,0,0,0,"33    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,8.1,-9999,0,0,71.1,0,0,0,0
+2017,9,17,7,9/17/2017,WN,PDX,OR,SFO,CA,909,28,,"8    Overcast
+Name: Conds_Description, dtype: object",10,29.94,0,8.1,-9999,0,0,57.9,0,0,0,0,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,3.5,-9999,0,0,62.1,0,0,0,0
+2017,9,17,7,9/17/2017,WN,SNA,CA,SFO,CA,2106,111,,"25    Clear
+Name: Conds_Description, dtype: object",10,29.93,0,3.5,-9999,0,0,66,0,0,0,0,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.95,0,20.7,-9999,0,0,63,0,0,0,0
+2017,9,18,1,9/18/2017,WN,AUS,TX,BOS,MA,1330,63,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,6.9,-9999,0,0,90,0,0,0,0,"26    Light Drizzle
+Name: Conds_Description, dtype: object",1.8,30.18,0,9.2,-9999,0,0,66,0,0,0,0
+2017,9,18,1,9/18/2017,WN,BNA,TN,BOS,MA,1646,123,,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.98,0,4.6,-9999,0,0,88,0,0,0,0,"32    Overcast
+Name: Conds_Description, dtype: object",3,30.15,0,6.9,-9999,0,0,66,0,0,0,0
+2017,9,18,1,9/18/2017,WN,BUR,CA,SFO,CA,1524,33,,"14    Clear
+Name: Conds_Description, dtype: object",10,29.88,0,9.2,-9999,0,0,77,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,13.8,-9999,0,0,70,0,0,0,0
+2017,9,18,1,9/18/2017,WN,BWI,MD,BOS,MA,2321,61,,"38    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,8.1,-9999,0,0,70,0,0,0,0,"40    Fog
+Name: Conds_Description, dtype: object",0.5,30.18,0,10.4,-9999,1,0,64,0,0,0,0
+2017,9,18,1,9/18/2017,WN,BWI,MD,BOS,MA,1624,95,,"30    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,30.05,0,5.8,-9999,0,0,72,0,0,0,0,"31    Overcast
+Name: Conds_Description, dtype: object",3,30.16,0,8.1,-9999,0,0,66,0,0,0,0
+2017,9,18,1,9/18/2017,WN,BWI,MD,BOS,MA,2000,59,,"34    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,4.6,-9999,0,0,70,0,0,0,0,"36    Overcast
+Name: Conds_Description, dtype: object",3,30.17,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,18,1,9/18/2017,WN,DEN,CO,BOS,MA,1131,56,,"10    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.08,0,6.9,-9999,0,0,73,0,0,0,0,"20    Overcast
+Name: Conds_Description, dtype: object",10,30.18,0,8.1,-9999,0,0,66.9,0,0,0,0
+2017,9,18,1,9/18/2017,WN,DEN,CO,SFO,CA,1610,34,,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.93,0,8.1,-9999,0,0,82,0,0,0,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,20.7,27.6,0,0,71.1,0,0,0,0
+2017,9,18,1,9/18/2017,WN,HOU,TX,BOS,MA,2005,307,,"28    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.97,0,11.5,-9999,0,0,75.9,1,0,1,0,"36    Overcast
+Name: Conds_Description, dtype: object",3,30.17,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,18,1,9/18/2017,WN,IND,IN,BOS,MA,1722,92,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,5.8,-9999,0,0,82.9,0,0,0,0,"33    Overcast
+Name: Conds_Description, dtype: object",3,30.15,0,5.8,-9999,0,0,66,0,0,0,0
+2017,9,18,1,9/18/2017,WN,LAS,NV,SFO,CA,857,92,,"8    Clear
+Name: Conds_Description, dtype: object",10,29.85,0,0,-9999,0,0,80.1,0,0,0,0,"8    Overcast
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,17.3,0,0,64.9,0,0,0,0
+2017,9,18,1,9/18/2017,WN,MCI,MO,BOS,MA,2126,6,,"35    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,8.1,-9999,0,0,66.9,0,0,0,0,"37    Light Drizzle
+Name: Conds_Description, dtype: object",3,30.19,0,9.2,-9999,0,0,64.9,0,0,0,0
+2017,9,18,1,9/18/2017,WN,MKE,WI,BOS,MA,1842,208,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,10.4,-9999,0,0,64.9,0,0,0,0,"34    Overcast
+Name: Conds_Description, dtype: object",3,30.16,0,6.9,-9999,0,0,66,0,0,0,0
+2017,9,18,1,9/18/2017,WN,MKE,WI,LGA,NY,1715,7,,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,9.2,-9999,0,0,68,0,0,0,0,"29    Overcast
+Name: Conds_Description, dtype: object",10,30.09,0,9.2,-9999,0,0,73,0,0,0,0
+2017,9,20,3,9/20/2017,WN,IND,IN,BOS,MA,1546,11,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,6.9,-9999,0,0,87.1,0,0,0,0,"30    Light Rain
+Name: Conds_Description, dtype: object",1.8,29.86,0,25.3,34.5,0,0,68,0,0,1,0
+2017,9,20,3,9/20/2017,WN,SNA,CA,SFO,CA,1738,13,,"22    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.84,0,11.5,-9999,0,0,72,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,19.6,26.5,0,0,66.9,0,0,0,0
+2017,9,20,3,9/20/2017,WN,STL,MO,BOS,MA,1642,36,,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.83,0,9.2,-9999,0,0,97,0,0,0,0,"32    Overcast
+Name: Conds_Description, dtype: object",2.5,29.85,0,26.5,33.4,0,0,68,0,0,0,0
+2017,9,20,3,9/20/2017,WN,STL,MO,SFO,CA,1410,14,,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,8.1,-9999,0,0,93.9,0,0,0,0,"15    Haze
+Name: Conds_Description, dtype: object",5,29.91,0,12.7,-9999,0,0,66.9,0,0,0,0
+2017,9,21,4,9/21/2017,WN,FLL,FL,EWR,NJ,1224,21,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,11.5,-9999,0,0,90,0,0,0,0,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.01,0,16.1,-9999,0,0,80.1,0,0,0,0
+2017,9,21,4,9/21/2017,WN,MCO,FL,EWR,NJ,1545,29,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,11.5,-9999,0,0,87.1,0,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,12.7,-9999,0,0,81,0,0,0,0
+2017,9,21,4,9/21/2017,WN,SFO,CA,DEN,CO,1742,53,,"16    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,28.8,38,0,0,64,0,0,0,0,"17    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.39,0,18.4,25.3,0,0,89.1,0,0,0,0
+2017,9,28,4,9/28/2017,WN,FLL,FL,EWR,NJ,1253,53,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,12.7,-9999,0,0,88,0,0,0,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,21.9,27.6,0,0,78.1,0,0,0,0
+2017,9,5,2,9/5/2017,WN,ATL,GA,BOS,MA,1914,4,,"21    Light Rain
+Name: Conds_Description, dtype: object",10,29.9,0,5.8,-9999,0,0,78.1,1,0,1,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.75,0,20.7,-9999,0,0,75,0,0,0,0
+2017,9,5,2,9/5/2017,WN,BNA,TN,BOS,MA,1637,159,,"29    Overcast
+Name: Conds_Description, dtype: object",10,29.92,0,6.9,-9999,0,0,68,0,0,0,0,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.73,0,19.6,-9999,0,0,84,0,0,0,0
+2017,9,5,2,9/5/2017,WN,BNA,TN,DEN,CO,1353,9,,"26    Overcast
+Name: Conds_Description, dtype: object",7,29.93,0,3.5,-9999,0,0,64.9,1,0,0,0,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.18,0,5.8,-9999,0,0,68,0,0,0,0
+2017,9,5,2,9/5/2017,WN,BWI,MD,BOS,MA,2015,69,,"26    Light Rain
+Name: Conds_Description, dtype: object",8,29.82,0,3.5,-9999,0,0,68,0,0,1,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.78,0,21.9,27.6,0,0,73,0,0,0,0
+2017,9,5,2,9/5/2017,WN,BWI,MD,DEN,CO,1923,13,,"22    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",2,29.84,0,17.3,26.5,0,0,69.1,1,0,1,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.17,0,6.9,-9999,0,0,64.9,0,0,0,0
+2017,9,5,2,9/5/2017,WN,DEN,CO,IAD,VA,1136,46,,"11    Overcast
+Name: Conds_Description, dtype: object",10,30.28,0,6.9,-9999,0,0,60.1,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,6.9,-9999,0,0,78.1,0,0,0,0
+2017,9,5,2,9/5/2017,WN,DEN,CO,LGA,NY,1100,40,,"11    Overcast
+Name: Conds_Description, dtype: object",10,30.28,0,6.9,-9999,0,0,60.1,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,9.2,-9999,0,0,79,0,0,0,0
+2017,9,5,2,9/5/2017,WN,EWR,NJ,PHX,AZ,2124,274,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,71.1,0,0,0,0,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,5.8,-9999,0,0,96.1,0,0,0,0
+2017,9,5,2,9/5/2017,WN,EWR,NJ,STL,MO,2045,81,,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,8.1,-9999,0,0,72,0,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,5.8,-9999,0,0,66,0,0,0,0
+2017,9,5,2,9/5/2017,WN,FLL,FL,EWR,NJ,1237,35,,"11    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.01,0,8.1,-9999,0,0,88,0,0,0,0,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.79,0,5.8,-9999,0,0,82.9,0,0,0,0
+2017,9,5,2,9/5/2017,WN,LGA,NY,DAL,TX,2020,29,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.77,0,9.2,-9999,0,0,79,0,0,0,0,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,11.5,-9999,0,0,82,0,0,0,0
+2017,9,5,2,9/5/2017,WN,LGA,NY,DEN,CO,2130,255,,"21    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.81,0,4.6,-9999,0,0,73,0,0,0,0,"21    Clear
+Name: Conds_Description, dtype: object",10,30.22,0,8.1,-9999,0,0,55.9,0,0,0,0
+2017,9,5,2,9/5/2017,WN,MCO,FL,EWR,NJ,1621,54,,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,4.6,-9999,0,0,87.1,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.72,0,15,21.9,0,0,87.1,0,0,0,0
+2017,9,5,2,9/5/2017,WN,PHL,PA,DEN,CO,2008,222,,"22    Light Rain
+Name: Conds_Description, dtype: object",7,29.82,0,8.1,-9999,0,0,73.9,0,0,1,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.19,0,4.6,-9999,0,0,61,0,0,0,0
+2017,9,6,3,9/6/2017,WN,ATL,GA,BOS,MA,1943,29,,"25    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,12.7,20.7,0,0,72,0,0,0,0,"33    Light Drizzle
+Name: Conds_Description, dtype: object",2,29.88,0,5.8,-9999,0,0,64.9,0,0,0,0
+2017,9,6,3,9/6/2017,WN,AUS,TX,BOS,MA,1416,107,,"13    Clear
+Name: Conds_Description, dtype: object",10,30.07,0,17.3,-9999,0,0,84.9,0,0,0,0,"24    Overcast
+Name: Conds_Description, dtype: object",10,29.91,0,12.7,-9999,0,0,68,0,0,0,0
+2017,9,6,3,9/6/2017,WN,BUR,CA,SFO,CA,1037,32,,"9    Clear
+Name: Conds_Description, dtype: object",10,29.93,0,0,-9999,0,0,80.1,0,0,0,0,"10    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.99,0,8.1,-9999,0,0,68,0,0,0,0
+2017,9,6,3,9/6/2017,WN,BWI,MD,BOS,MA,2254,25,,"39    Overcast
+Name: Conds_Description, dtype: object",8,29.86,0,6.9,-9999,0,0,60.1,0,0,0,0,"40    Overcast
+Name: Conds_Description, dtype: object",3,29.87,0,8.1,-9999,0,0,62.1,0,0,0,0
+2017,9,6,3,9/6/2017,WN,BWI,MD,BOS,MA,1703,83,,"29    Light Rain
+Name: Conds_Description, dtype: object",8,29.89,0,8.1,-9999,0,0,62.1,0,0,1,0,"28    Overcast
+Name: Conds_Description, dtype: object",8,29.88,0,4.6,-9999,0,0,68,0,0,0,0
+2017,9,6,3,9/6/2017,WN,BWI,MD,BOS,MA,1238,33,,"17    Light Rain
+Name: Conds_Description, dtype: object",6,29.91,0,6.9,-9999,0,0,63,0,0,1,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,10.4,-9999,0,0,75,0,0,0,0
+2017,9,6,3,9/6/2017,WN,CMH,OH,BOS,MA,2055,50,,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,9.2,-9999,0,0,57.9,0,0,0,0,"36    Light Drizzle
+Name: Conds_Description, dtype: object",3,29.91,0,12.7,-9999,0,0,64.9,0,0,0,0
+2017,9,6,3,9/6/2017,WN,DAL,TX,PHL,PA,1312,21,,"12    Clear
+Name: Conds_Description, dtype: object",10,30.14,0,9.2,17.3,0,0,82.9,0,0,0,0,"27    Light Rain
+Name: Conds_Description, dtype: object",8,29.9,0,9.2,-9999,0,0,63,0,0,1,0
+2017,9,6,3,9/6/2017,WN,DAL,TX,SFO,CA,945,15,,"8    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.14,0,8.1,-9999,0,0,70,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",8,29.97,0,6.9,-9999,0,0,66.9,0,0,0,0
+2017,9,6,3,9/6/2017,WN,DEN,CO,BOS,MA,1801,11,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.99,0,9.2,-9999,0,0,78.1,0,0,0,0,"30    Light Drizzle
+Name: Conds_Description, dtype: object",6,29.88,0,5.8,-9999,0,0,66,0,0,0,0
+2017,9,6,3,9/6/2017,WN,DEN,CO,BOS,MA,1623,34,,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,12.7,-9999,0,0,80.1,0,0,0,0,"27    Light Rain
+Name: Conds_Description, dtype: object",8,29.89,0,5.8,-9999,0,0,66.9,0,0,1,0
+2017,9,6,3,9/6/2017,WN,FLL,FL,EWR,NJ,1311,63,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,12.7,-9999,0,0,89.1,0,0,0,0,"16    Overcast
+Name: Conds_Description, dtype: object",10,29.89,0,16.1,-9999,0,0,64,0,0,0,0
+2017,9,6,3,9/6/2017,WN,IND,IN,BOS,MA,1743,119,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,17.3,-9999,0,0,63,0,0,0,0,"29    Overcast
+Name: Conds_Description, dtype: object",7,29.88,0,5.8,-9999,0,0,66.9,0,0,0,0
+2017,9,6,3,9/6/2017,WN,LAS,NV,PHL,PA,902,7,,"8    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,3.5,-9999,0,0,84.9,0,0,0,0,"19    Overcast
+Name: Conds_Description, dtype: object",5,29.86,0,8.1,-9999,0,0,70,0,0,0,0
+2017,9,6,3,9/6/2017,WN,MCO,FL,PHL,PA,1318,9,,"14    Heavy Rain
+Name: Conds_Description, dtype: object",0.5,29.96,0,12.7,-9999,1,0,77,0,0,1,0,"27    Light Rain
+Name: Conds_Description, dtype: object",8,29.9,0,9.2,-9999,0,0,63,0,0,1,0
+2017,9,11,1,9/11/2017,WN,SFO,CA,LAX,CA,2148,22,,"23    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",9,29.89,0,6.9,-9999,0,0,66.9,1,0,1,0,"20    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,6.9,-9999,0,0,71.1,0,0,0,0
+2017,9,11,1,9/11/2017,WN,SFO,CA,PHX,AZ,2151,26,,"23    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",9,29.89,0,6.9,-9999,0,0,66.9,1,0,1,0,"21    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.76,0,4.6,-9999,0,0,97,0,0,0,0
+2017,9,11,1,9/11/2017,WN,SLC,UT,DEN,CO,1616,24,,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,6.9,-9999,0,0,90,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,5.8,-9999,0,0,84.9,0,0,0,0
+2017,9,11,1,9/11/2017,WN,SNA,CA,SFO,CA,1927,61,,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,5.8,-9999,0,0,78.1,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",8,29.84,0,19.6,-9999,0,0,68,0,0,0,0
+2017,9,11,1,9/11/2017,WN,STL,MO,DEN,CO,1907,138,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.05,0,10.4,-9999,0,0,75,0,0,0,0,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.06,0,17.3,-9999,0,0,73.9,0,0,0,0
+2017,9,13,3,9/13/2017,WN,ATL,GA,LGA,NY,2011,28,,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,0,-9999,0,0,70,0,0,0,0,"22    Overcast
+Name: Conds_Description, dtype: object",10,29.86,0,8.1,-9999,0,0,73.9,0,0,0,0
+2017,9,13,3,9/13/2017,WN,DEN,CO,PHL,PA,1648,26,,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.68,0,11.5,-9999,0,0,84.9,0,0,0,0,"26    Overcast
+Name: Conds_Description, dtype: object",2,29.87,0,0,-9999,0,0,73,0,0,0,0
+2017,9,13,3,9/13/2017,WN,EWR,NJ,MDW,IL,1544,24,,"14    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,12.7,-9999,0,0,79,0,0,0,0,"14    Light Rain
+Name: Conds_Description, dtype: object",9,29.73,0,5.8,-9999,0,0,71.1,0,0,1,0
+2017,9,22,5,9/22/2017,WN,ATL,GA,BOS,MA,1330,15,,"12    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.04,0,3.5,-9999,0,0,84.9,0,0,0,0,"17    Light Rain
+Name: Conds_Description, dtype: object",10,30.01,0,25.3,35.7,0,0,60.1,0,0,1,0
+2017,9,22,5,9/22/2017,WN,BWI,MD,BOS,MA,1713,93,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.98,0,5.8,-9999,0,0,78.1,0,0,0,0,"22    Light Drizzle
+Name: Conds_Description, dtype: object",2,30,0,25.3,35.7,0,0,60.1,0,0,0,0
+2017,9,22,5,9/22/2017,WN,BWI,MD,BOS,MA,2041,116,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,0,-9999,0,0,73,0,0,0,0,"26    Light Drizzle
+Name: Conds_Description, dtype: object",7,30,0,21.9,35.7,0,0,60.1,0,0,0,0
+2017,9,22,5,9/22/2017,WN,CMH,OH,BOS,MA,2038,38,,"19    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.04,0,4.6,-9999,0,0,82,0,0,0,0,"26    Light Drizzle
+Name: Conds_Description, dtype: object",7,30,0,21.9,35.7,0,0,60.1,0,0,0,0
+2017,9,22,5,9/22/2017,WN,HOU,TX,BOS,MA,1647,135,,"14    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.95,0,10.4,-9999,0,0,91,0,0,0,0,"21    Light Rain
+Name: Conds_Description, dtype: object",2,29.99,0,20.7,32.2,0,0,60.1,0,0,1,0
+2017,9,22,5,9/22/2017,WN,MCO,FL,EWR,NJ,1559,38,,"15    Light Rain
+Name: Conds_Description, dtype: object",10,29.9,0,17.3,-9999,0,0,84.9,0,0,1,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,17.3,-9999,0,0,84.9,0,0,0,0
+2017,9,22,5,9/22/2017,WN,MDW,IL,BOS,MA,1530,110,,"14    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,3.5,-9999,0,0,93.9,0,0,0,0,"19    Overcast
+Name: Conds_Description, dtype: object",8,29.99,0,21.9,32.2,0,0,60.1,0,0,0,0
+2017,9,22,5,9/22/2017,WN,MDW,IL,EWR,NJ,1449,33,,"13    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,10.4,-9999,0,0,93,0,0,0,0,"13    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,19.6,-9999,0,0,84,0,0,0,0
+2017,9,22,5,9/22/2017,WN,STL,MO,BOS,MA,2033,53,,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,8.1,-9999,0,0,86,0,0,0,0,"26    Light Drizzle
+Name: Conds_Description, dtype: object",7,30,0,21.9,35.7,0,0,60.1,0,0,0,0
+2017,9,29,5,9/29/2017,WN,LAS,NV,SFO,CA,1956,59,,"19    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.83,0,3.5,-9999,0,0,82.9,0,0,0,0,"25    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.96,0,15,-9999,0,0,62.1,0,0,0,0
+2017,9,29,5,9/29/2017,WN,LAX,CA,SFO,CA,2155,37,,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",9,29.85,0,9.2,-9999,0,0,69.1,0,0,0,0,"27    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.97,0,25.3,-9999,0,0,61,0,0,0,0
+2017,9,29,5,9/29/2017,WN,SNA,CA,SFO,CA,1953,15,,"21    Clear
+Name: Conds_Description, dtype: object",10,29.86,0,3.5,-9999,0,0,68,0,0,0,0,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.96,0,15,-9999,0,0,62.1,0,0,0,0
+2017,9,6,3,9/6/2017,WN,MDW,IL,EWR,NJ,2023,106,,"19    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,6.9,-9999,0,0,61,0,0,0,0,"25    Light Rain
+Name: Conds_Description, dtype: object",9,29.89,0,5.8,-9999,0,0,62.1,0,0,1,0
+2017,9,6,3,9/6/2017,WN,MKE,WI,BOS,MA,1711,125,,"16    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,30,0,4.6,-9999,0,0,63,0,0,0,0,"28    Overcast
+Name: Conds_Description, dtype: object",8,29.88,0,4.6,-9999,0,0,68,0,0,0,0
+2017,9,6,3,9/6/2017,WN,PHL,PA,MCO,FL,610,10,,"10    Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.85,0,4.6,-9999,0,0,69.1,1,0,1,0,"5    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.91,0,0,-9999,0,0,75.9,0,0,0,0
+2017,9,6,3,9/6/2017,WN,STL,MO,BOS,MA,2121,89,,"20    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.11,0,3.5,-9999,0,0,61,0,0,0,0,"38    Light Rain
+Name: Conds_Description, dtype: object",3,29.9,0,9.2,-9999,0,0,63,0,0,1,0
+2017,9,7,4,9/7/2017,WN,BNA,TN,LGA,NY,1806,15,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30.13,0,5.8,-9999,0,0,71.1,0,0,0,0,"24    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.89,0,10.4,23,0,0,73,0,0,0,0
+2017,9,7,4,9/7/2017,WN,DAL,TX,SFO,CA,1014,42,,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.17,0,6.9,-9999,0,0,73.9,0,0,0,0,"9    Overcast
+Name: Conds_Description, dtype: object",10,29.99,0,5.8,-9999,0,0,68,0,0,0,0
+2017,9,7,4,9/7/2017,WN,DEN,CO,LAS,NV,1820,125,,"17    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,8.1,-9999,0,0,82.9,0,0,0,0,"20    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",10,29.84,0,10.4,-9999,0,0,90,1,0,1,0
+2017,9,7,4,9/7/2017,WN,DEN,CO,SFO,CA,1626,45,,"15    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.85,0,9.2,-9999,0,0,86,0,0,0,0,"15    Overcast
+Name: Conds_Description, dtype: object",10,29.95,0,8.1,-9999,0,0,71.1,0,0,0,0
+2017,9,7,4,9/7/2017,WN,LAS,NV,SFO,CA,1517,44,,"15    Thunderstorm
+Name: Conds_Description, dtype: object",10,29.78,0,11.5,19.6,0,0,95,1,0,0,0,"14    Overcast
+Name: Conds_Description, dtype: object",10,29.96,0,9.2,-9999,0,0,71.1,0,0,0,0
+2017,9,7,4,9/7/2017,WN,LAX,CA,SFO,CA,1951,28,,"19    Clear
+Name: Conds_Description, dtype: object",10,29.81,0,20.7,26.5,0,0,71.1,0,0,0,0,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",9,29.91,0,11.5,-9999,0,0,66.9,0,0,0,0
+2017,9,7,4,9/7/2017,WN,SFO,CA,LAS,NV,1722,74,,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.92,0,10.4,-9999,0,0,70,0,0,0,0,"18    Light Rain
+Name: Conds_Description, dtype: object",10,29.86,0,5.8,-9999,0,0,88,0,0,1,0
+2017,9,13,3,9/13/2017,WN,LAS,NV,SFO,CA,941,25,,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.78,0,6.9,-9999,0,0,89.1,0,0,0,0,"10    Overcast
+Name: Conds_Description, dtype: object",10,29.89,0,5.8,-9999,0,0,66.9,0,0,0,0
+2017,9,13,3,9/13/2017,WN,LAX,CA,SFO,CA,1545,13,,"21    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,13.8,-9999,0,0,73,0,0,0,0,"17    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.85,0,15,-9999,0,0,71.1,0,0,0,0
+2017,9,13,3,9/13/2017,WN,MDW,IL,LGA,NY,1615,63,,"15    Overcast
+Name: Conds_Description, dtype: object",9,29.73,0,11.5,-9999,0,0,70,0,0,0,0,"15    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,12.7,-9999,0,0,78.1,0,0,0,0
+2017,9,13,3,9/13/2017,WN,MKE,WI,LGA,NY,1745,60,,"24    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.76,0,5.8,-9999,0,0,73,0,0,0,0,"18    Overcast
+Name: Conds_Description, dtype: object",10,29.85,0,5.8,-9999,0,0,75,0,0,0,0
+2017,9,14,4,9/14/2017,WN,BOS,MA,CMH,OH,1852,2,,"22    Heavy Thunderstorms and Rain
+Name: Conds_Description, dtype: object",4,29.88,0,23,65.6,0,0,71.6,1,0,1,0,"24    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.94,0,4.6,-9999,0,0,69.1,0,0,0,0
+2017,9,14,4,9/14/2017,WN,BWI,MD,BOS,MA,2201,81,,"22    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.95,0,0,-9999,0,0,70,0,0,0,0,"28    Overcast
+Name: Conds_Description, dtype: object",10,29.93,0,5.8,-9999,0,0,70,0,0,0,0
+2017,9,14,4,9/14/2017,WN,DAL,TX,SFO,CA,1011,41,,"9    Clear
+Name: Conds_Description, dtype: object",9,29.86,0,9.2,-9999,0,0,77,0,0,0,0,"9    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.91,0,18.4,25.3,0,0,64.9,0,0,0,0
+2017,9,14,4,9/14/2017,WN,DEN,CO,MDW,IL,829,149,,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.72,0,11.5,-9999,0,0,66,0,0,0,0,"13    Fog
+Name: Conds_Description, dtype: object",0.1,29.9,0,3.5,-9999,1,0,60.1,0,0,0,0
+2017,9,14,4,9/14/2017,WN,DEN,CO,SFO,CA,918,60,,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.73,0,8.1,-9999,0,0,75,0,0,0,0,"8    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.9,0,15,20.7,0,0,63,0,0,0,0
+2017,9,14,4,9/14/2017,WN,MDW,IL,BOS,MA,1221,62,,"23    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.89,0,6.9,-9999,0,0,73,0,0,0,0,"11    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.86,0,13.8,-9999,0,0,80.1,0,0,0,0
+2017,9,14,4,9/14/2017,WN,MDW,IL,DEN,CO,1007,107,,"20    Mostly Cloudy
+Name: Conds_Description, dtype: object",5,29.92,0,0,-9999,0,0,63,0,0,0,0,"9    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.73,0,6.9,-9999,0,0,77,0,0,0,0
+2017,9,14,4,9/14/2017,WN,MDW,IL,EWR,NJ,1517,37,,"26    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.86,0,5.8,-9999,0,0,78.1,0,0,0,0,"25    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.84,0,12.7,19.6,0,0,82.9,0,0,0,0
+2017,9,14,4,9/14/2017,WN,MDW,IL,EWR,NJ,1349,10,,"24    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.88,0,4.6,-9999,0,0,75.9,0,0,0,0,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.87,0,4.6,-9999,0,0,81,0,0,0,0
+2017,9,14,4,9/14/2017,WN,PHL,PA,DEN,CO,1813,133,,"37    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.87,0,12.7,-9999,0,0,80.1,0,0,0,0,"18    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.65,0,17.3,-9999,0,0,77,0,0,0,0
+2017,9,14,4,9/14/2017,WN,PHL,PA,MDW,IL,1103,193,,"29    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,11.5,-9999,0,0,75,0,0,0,0,"22    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.9,0,5.8,-9999,0,0,70,0,0,0,0
+2017,9,14,4,9/14/2017,WN,PHX,AZ,SFO,CA,844,44,,"7    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.69,0,12.7,-9999,0,0,87.1,0,0,0,0,"7    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.88,0,11.5,-9999,0,0,61,0,0,0,0
+2017,9,24,7,9/24/2017,WN,IND,IN,EWR,NJ,1601,25,,"15    Partly Cloudy
+Name: Conds_Description, dtype: object",10,30.02,0,9.2,-9999,0,0,90,0,0,0,0,"15    Clear
+Name: Conds_Description, dtype: object",10,30.01,0,5.8,-9999,0,0,91.9,0,0,0,0
+2017,9,24,7,9/24/2017,WN,PHX,AZ,DEN,CO,1121,15,,"10    Clear
+Name: Conds_Description, dtype: object",10,29.79,0,4.6,-9999,0,0,79,0,0,0,0,"20    Overcast
+Name: Conds_Description, dtype: object",3,30.01,0,6.9,-9999,0,0,48,0,0,0,0
+2017,9,4,1,9/4/2017,DL,ORD,IL,ATL,GA,1940,15,,"21    Overcast
+Name: Conds_Description, dtype: object",10,29.75,0,15,-9999,0,0,72,0,0,0,0,"18    Scattered Clouds
+Name: Conds_Description, dtype: object",10,30,0,10.4,-9999,0,0,82.9,0,0,0,0
+2017,9,5,2,9/5/2017,DL,ATL,GA,DFW,TX,2101,68,,"25    Light Thunderstorms and Rain
+Name: Conds_Description, dtype: object",7,29.93,0,3.5,-9999,0,0,69.1,1,0,1,0,"20    Clear
+Name: Conds_Description, dtype: object",10,30,0,17.3,-9999,0,0,78.1,0,0,0,0
+2017,9,5,2,9/5/2017,DL,EWR,NJ,DTW,MI,2112,183,,"23    Mostly Cloudy
+Name: Conds_Description, dtype: object",10,29.8,0,5.8,-9999,0,0,71.1,0,0,0,0,"22    Scattered Clouds
+Name: Conds_Description, dtype: object",10,29.84,0,9.2,-9999,0,0,62.1,0,0,0,0
+2017,9,5,2,9/5/2017,DL,ATL,GA,DEN,CO,29,35,,"1    Partly Cloudy
+Name: Conds_Description, dtype: object",10,29.99,0,0,-9999,0,0,73,0,0,0,0,"1    Overcast
+Name: Conds_Description, dtype: object",10,30.18,0,8.1,-9999,0,0,60.1,0,0,0,0
